@@ -1492,3 +1492,10 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [17Jun2025 07:42:38.499] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
 [17Jun2025 07:42:38.503] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
 [17Jun2025 07:44:21.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set the time to 1000]
+[17Jun2025 08:11:57.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -7.041058797224224,-3.3741046240098314,-7.2401130246335015
+[17Jun2025 08:12:59.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=98, y=243, z=-454} BlockPos{x=98, y=244, z=-454}
+[17Jun2025 08:14:14.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=97, y=247, z=-454} BlockPos{x=97, y=248, z=-454}
+[17Jun2025 08:14:15.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=99, y=247, z=-454} BlockPos{x=99, y=246, z=-454}
+[17Jun2025 08:14:16.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=99, y=248, z=-454} BlockPos{x=99, y=247, z=-454}
+[17Jun2025 08:14:58.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> 19
+[17Jun2025 08:18:04.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> zzzzzz
