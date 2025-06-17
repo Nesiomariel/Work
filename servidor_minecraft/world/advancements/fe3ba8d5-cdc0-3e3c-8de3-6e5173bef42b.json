@@ -8278,6 +8278,36 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-17 05:00:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-06-17 05:05:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-06-17 05:08:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-06-17 05:08:48 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2025-06-17 05:09:05 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/mob_charm_fragments/zombified_piglin": {
     "criteria": {
       "has_zombie_heart": "2025-06-17 05:17:04 +0000"
@@ -8302,35 +8332,53 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_magnetron": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "killed": "2025-06-17 05:09:05 +0000"
+      "has_paper": "2025-06-17 05:25:31 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_magnetic_caves": {
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
-      "discover": "2025-06-17 05:05:57 +0000"
+      "has_item": "2025-06-17 05:25:31 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/ambush": {
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
-      "coded_trigger": "2025-06-17 05:00:57 +0000"
+      "has_item": "2025-06-17 05:25:31 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/telecore": {
+  "buildinggadgets2:recipes/misc/template_manager": {
     "criteria": {
-      "limestone": "2025-06-17 05:08:48 +0000"
+      "has_paper": "2025-06-17 05:25:31 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/neodymium": {
+  "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
-      "scarlet": "2025-06-17 05:08:48 +0000"
+      "has_item": "2025-06-17 05:25:31 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-06-17 05:25:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-06-17 05:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-06-17 05:25:31 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

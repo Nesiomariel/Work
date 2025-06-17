@@ -1507,3 +1507,65 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [17Jun2025 05:13:52.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to CLOCKWORK]
 [17Jun2025 05:15:40.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK moved wrongly!
 [17Jun2025 05:16:41.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[17Jun2025 05:20:35.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Banned ElSilverSito: Banned by an operator.]
+[17Jun2025 05:20:35.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito lost connection: You are banned from this server
+[17Jun2025 05:20:35.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito left the game
+[17Jun2025 05:20:35.661] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElSilverSito
+[17Jun2025 05:20:35.702] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jun2025 05:20:54.453] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5ffee7e9[id=fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b,name=ElSilverSito,properties={},legacy=false] (/127.164.157.169:38705): You are banned from this server.
+Reason: Banned by an operator.
+[17Jun2025 05:20:54.457] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ffee7e9[id=fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b,name=ElSilverSito,properties={},legacy=false] (/127.164.157.169:38705) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[17Jun2025 05:20:54.497] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jun2025 05:22:49.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Unbanned ElSilverSito]
+[17Jun2025 05:23:16.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElSilverSito[/127.164.157.169:56023] logged in with entity id 64703 at (76.98296071879132, 123.01043864130786, -487.3237489279892)
+[17Jun2025 05:23:16.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito joined the game
+[17Jun2025 05:23:17.098] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElSilverSito (18)
+[17Jun2025 05:23:17.098] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElSilverSito
+[17Jun2025 05:23:25.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has reached the goal [Like a bird]
+[17Jun2025 05:23:33.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[17Jun2025 05:23:34.784] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[17Jun2025 05:23:34.785] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElSilverSito (fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b) successfully connected to voice chat
+[17Jun2025 05:23:39.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Banned CLOCKWORK: Banned by an operator.]
+[17Jun2025 05:23:39.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK lost connection: You are banned from this server
+[17Jun2025 05:23:39.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK left the game
+[17Jun2025 05:23:39.659] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CLOCKWORK
+[17Jun2025 05:23:48.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Unbanned CLOCKWORK]
+[17Jun2025 05:24:26.746] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2db074ab[id=<null>,name=CLOCKWORK,properties={},legacy=false] (/127.98.189.132:54375) lost connection: Disconnected
+[17Jun2025 05:24:35.110] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CLOCKWORK[/127.98.189.132:51321] logged in with entity id 64945 at (-28.35651351082561, 94.96891490982352, -446.85409855289487)
+[17Jun2025 05:24:35.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK joined the game
+[17Jun2025 05:24:35.608] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CLOCKWORK (18)
+[17Jun2025 05:24:35.608] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CLOCKWORK
+[17Jun2025 05:24:43.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[17Jun2025 05:24:44.590] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[17Jun2025 05:24:44.590] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CLOCKWORK (4e990c8e-cdce-3746-81fd-75cde3bbf744) successfully connected to voice chat
+[17Jun2025 05:28:55.080] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at -4785 -32 -5004 in 5s
+[17Jun2025 05:28:55.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3542ms or 70 ticks behind
+[17Jun2025 05:30:13.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[17Jun2025 05:31:00.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[17Jun2025 05:31:19.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported ElSilverSito to CLOCKWORK]
+[17Jun2025 05:31:20.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4850ms or 97 ticks behind
+[17Jun2025 05:31:23.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[17Jun2025 05:31:26.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[17Jun2025 05:31:27.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported CLOCKWORK to TheForgottenNeo]
+[17Jun2025 05:32:52.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[17Jun2025 05:32:57.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! -0.5844136521704968,-10.110651620832215,0.5254753047752274
+[17Jun2025 05:33:10.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17Jun2025 05:33:18.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported CLOCKWORK to TheForgottenNeo]
+[17Jun2025 05:33:20.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[17Jun2025 05:33:51.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[17Jun2025 05:34:14.465] [Worker-Main-117/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Jun2025 05:34:14.465] [Worker-Main-117/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Jun2025 05:36:11.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Wingin' It]
+[17Jun2025 05:36:31.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> a
+[17Jun2025 05:36:36.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1410, y=64, z=-1938} BlockPos{x=-1977, y=109, z=-2463}
+[17Jun2025 05:36:37.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1981, y=102, z=-2462} BlockPos{x=-1979, y=103, z=-2462}
+[17Jun2025 05:36:47.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1981, y=16, z=-2461} BlockPos{x=-1981, y=18, z=-2461}
+[17Jun2025 05:36:55.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[17Jun2025 05:36:58.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Once Upon a Cave]
+[17Jun2025 05:37:05.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[17Jun2025 05:37:10.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to CLOCKWORK]
+[17Jun2025 05:39:20.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [Premium!]
+[17Jun2025 05:39:20.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Tools of the Trade]
+[17Jun2025 05:39:34.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Chest Slayer]
+[17Jun2025 05:39:36.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Amateur Archaeologist]

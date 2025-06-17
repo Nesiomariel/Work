@@ -1342,6 +1342,7 @@
       "rocky_rainforest": "2025-06-17 04:54:35 +0000",
       "lavender_field": "2025-06-17 05:02:02 +0000",
       "grassland": "2025-06-14 00:26:47 +0000",
+      "glowing_grotto": "2025-06-17 05:36:43 +0000",
       "undergrowth": "2025-06-13 23:02:32 +0000",
       "rainforest": "2025-06-17 04:55:11 +0000"
     },
@@ -12113,7 +12114,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-06-17 05:19:06 +0000"
+      "requirement": "2025-06-17 05:39:20 +0000"
     },
     "done": false
   },
@@ -12153,6 +12154,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-06-17 05:36:11 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/gunpowder_creeper_gland": {
     "criteria": {
       "has_catalyzing_gland": "2025-06-17 05:11:45 +0000"
@@ -12171,6 +12178,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-06-17 05:39:20 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/mob_charm_fragments/creeper": {
     "criteria": {
       "has_catalyzing_gland": "2025-06-17 05:11:45 +0000"
@@ -12183,9 +12196,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-06-17 05:38:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
     "criteria": {
       "has_flower": "2025-06-17 04:59:34 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-06-17 05:39:20 +0000"
     },
     "done": true
   },
@@ -12210,6 +12235,12 @@
   "alexscaves:alexscaves/telecore": {
     "criteria": {
       "limestone": "2025-06-17 05:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2025-06-17 05:32:01 +0000"
     },
     "done": true
   },
