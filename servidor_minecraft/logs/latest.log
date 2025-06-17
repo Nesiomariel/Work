@@ -1678,3 +1678,16 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [17Jun2025 23:24:23.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
 [17Jun2025 23:24:23.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
 [17Jun2025 23:24:23.722] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheForgottenNeo
+[17Jun2025 23:29:00.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[17Jun2025 23:29:20.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[17Jun2025 23:32:07.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> :zzz
+[17Jun2025 23:32:10.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ElSilverSito> :zzz:
+[17Jun2025 23:33:18.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! -4.788923488124496,-2.6389835141615663,-8.406134429232907
+[17Jun2025 23:36:58.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CLOCKWORK[/127.98.189.132:46661] logged in with entity id 14613 at (36.30000001192093, 104.0, -560.3000000119209)
+[17Jun2025 23:36:58.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK joined the game
+[17Jun2025 23:37:00.525] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CLOCKWORK (18)
+[17Jun2025 23:37:00.526] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CLOCKWORK
+[17Jun2025 23:37:12.785] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[17Jun2025 23:37:14.786] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[17Jun2025 23:37:14.786] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CLOCKWORK (4e990c8e-cdce-3746-81fd-75cde3bbf744) successfully connected to voice chat
+[17Jun2025 23:37:26.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
