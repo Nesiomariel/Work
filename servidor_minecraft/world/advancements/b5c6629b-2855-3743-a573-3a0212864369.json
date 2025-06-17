@@ -107,6 +107,7 @@
       "minecraft:savanna_plateau": "2025-06-16 08:06:18 +0000",
       "minecraft:beach": "2025-06-13 06:59:50 +0000",
       "minecraft:stony_peaks": "2025-06-16 07:49:10 +0000",
+      "minecraft:dark_forest": "2025-06-17 04:59:17 +0000",
       "minecraft:river": "2025-06-13 05:39:38 +0000",
       "minecraft:lukewarm_ocean": "2025-06-16 08:06:33 +0000",
       "minecraft:stony_shore": "2025-06-14 10:01:28 +0000",
@@ -1338,8 +1339,11 @@
       "wasteland_steppe": "2025-06-16 07:42:54 +0000",
       "dune_beach": "2025-06-16 08:09:58 +0000",
       "volcano": "2025-06-17 04:52:13 +0000",
+      "rocky_rainforest": "2025-06-17 04:54:35 +0000",
+      "lavender_field": "2025-06-17 05:02:02 +0000",
       "grassland": "2025-06-14 00:26:47 +0000",
-      "undergrowth": "2025-06-13 23:02:32 +0000"
+      "undergrowth": "2025-06-13 23:02:32 +0000",
+      "rainforest": "2025-06-17 04:55:11 +0000"
     },
     "done": false
   },
@@ -1447,6 +1451,7 @@
       "minecraft:phantom": "2025-06-16 04:56:57 +0000",
       "minecraft:witch": "2025-06-14 22:21:58 +0000",
       "minecraft:wither_skeleton": "2025-06-14 04:12:13 +0000",
+      "minecraft:cave_spider": "2025-06-17 05:07:29 +0000",
       "minecraft:piglin": "2025-06-14 04:06:40 +0000",
       "minecraft:silverfish": "2025-06-14 10:09:52 +0000",
       "minecraft:enderman": "2025-06-14 10:16:47 +0000",
@@ -12108,9 +12113,64 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-06-17 04:53:51 +0000"
+      "requirement": "2025-06-17 05:09:06 +0000"
     },
     "done": false
+  },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2025-06-17 05:08:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-06-17 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2025-06-17 04:58:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_flower": "2025-06-17 04:59:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_flower": "2025-06-17 04:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-06-17 04:59:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-06-17 05:05:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-06-17 05:06:52 +0000",
+      "azure": "2025-06-17 05:07:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-06-17 04:58:44 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

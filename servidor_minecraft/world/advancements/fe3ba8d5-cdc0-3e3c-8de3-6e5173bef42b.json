@@ -8278,75 +8278,33 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "alexscaves:alexscaves/defeat_magnetron": {
     "criteria": {
-      "log_spam_fixer": "2025-06-17 04:50:52 +0000"
+      "killed": "2025-06-17 05:09:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "alexscaves:alexscaves/discover_magnetic_caves": {
     "criteria": {
-      "log_spam_fixer": "2025-06-17 04:50:52 +0000"
+      "discover": "2025-06-17 05:05:57 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "tombstone:adventure/ambush": {
     "criteria": {
-      "log_spam_fixer": "2025-06-17 04:50:52 +0000"
+      "coded_trigger": "2025-06-17 05:00:57 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "alexscaves:alexscaves/telecore": {
     "criteria": {
-      "log_spam_fixer": "2025-06-17 04:50:52 +0000"
+      "limestone": "2025-06-17 05:08:48 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "alexscaves:alexscaves/neodymium": {
     "criteria": {
-      "log_spam_fixer": "2025-06-17 04:50:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 04:50:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 04:50:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 04:50:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 04:50:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 04:50:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 04:50:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 04:50:52 +0000"
+      "scarlet": "2025-06-17 05:08:48 +0000"
     },
     "done": false
   },

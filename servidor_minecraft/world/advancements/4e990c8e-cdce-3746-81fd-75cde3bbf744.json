@@ -102,6 +102,7 @@
       "minecraft:cherry_grove": "2025-06-14 22:48:41 +0000",
       "minecraft:birch_forest": "2025-06-15 03:07:44 +0000",
       "minecraft:beach": "2025-06-15 01:38:41 +0000",
+      "minecraft:dark_forest": "2025-06-17 04:59:18 +0000",
       "minecraft:stony_peaks": "2025-06-17 04:52:59 +0000",
       "minecraft:river": "2025-06-14 22:31:20 +0000",
       "minecraft:stony_shore": "2025-06-15 03:07:25 +0000",
@@ -485,6 +486,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-06-17 04:55:53 +0000",
       "shrubland": "2025-06-14 22:06:09 +0000",
       "rocky_shrubland": "2025-06-14 22:04:20 +0000",
       "scrubland": "2025-06-16 04:24:12 +0000",
@@ -492,6 +494,7 @@
       "jade_cliffs": "2025-06-15 03:08:46 +0000",
       "clover_patch": "2025-06-14 22:09:41 +0000",
       "mystic_grove": "2025-06-15 03:09:12 +0000",
+      "old_growth_woodland": "2025-06-17 04:54:07 +0000",
       "orchard": "2025-06-14 22:13:33 +0000",
       "lavender_forest": "2025-06-14 22:27:59 +0000",
       "moor": "2025-06-15 03:11:33 +0000",
@@ -499,8 +502,11 @@
       "spider_nest": "2025-06-14 22:35:02 +0000",
       "redwood_forest": "2025-06-14 22:31:36 +0000",
       "volcano": "2025-06-17 04:52:29 +0000",
+      "rocky_rainforest": "2025-06-17 04:54:35 +0000",
+      "lavender_field": "2025-06-17 05:02:06 +0000",
       "grassland": "2025-06-14 22:09:00 +0000",
-      "undergrowth": "2025-06-17 04:11:33 +0000"
+      "undergrowth": "2025-06-17 04:11:33 +0000",
+      "rainforest": "2025-06-17 04:55:09 +0000"
     },
     "done": false
   },
@@ -2108,6 +2114,7 @@
       "minecraft:spider": "2025-06-15 03:10:56 +0000",
       "minecraft:creeper": "2025-06-15 03:10:53 +0000",
       "minecraft:phantom": "2025-06-17 04:17:44 +0000",
+      "minecraft:witch": "2025-06-17 04:57:16 +0000",
       "minecraft:enderman": "2025-06-17 04:19:42 +0000",
       "minecraft:zombie": "2025-06-16 03:50:08 +0000",
       "minecraft:drowned": "2025-06-17 04:48:35 +0000"
@@ -2957,6 +2964,30 @@
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2025-06-17 04:43:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-06-17 05:03:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2025-06-17 05:06:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-06-17 05:05:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-06-17 04:56:32 +0000"
     },
     "done": true
   },

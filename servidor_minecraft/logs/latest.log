@@ -1469,3 +1469,32 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [17Jun2025 04:56:34.557] [Worker-Main-92/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [17Jun2025 04:56:34.558] [Worker-Main-92/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [17Jun2025 04:56:47.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK moved too quickly! 7.22092677015371,4.08490883163509,6.174124784577543
+[17Jun2025 04:59:09.179] [Worker-Main-103/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Jun2025 04:59:09.180] [Worker-Main-103/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Jun2025 04:59:11.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[17Jun2025 04:59:14.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> a
+[17Jun2025 04:59:34.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6083, y=126, z=4487} BlockPos{x=6082, y=125, z=4486}
+[17Jun2025 04:59:39.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6100, y=127, z=4514} BlockPos{x=6101, y=125, z=4515}
+[17Jun2025 04:59:44.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6132, y=120, z=4548} BlockPos{x=6131, y=119, z=4547}
+[17Jun2025 04:59:44.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6134, y=120, z=4550} BlockPos{x=6134, y=119, z=4551}
+[17Jun2025 05:00:57.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Ambush]
+[17Jun2025 05:01:12.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -0.0015389785621664487,-3.5837071013082493,10.44442244835136
+[17Jun2025 05:02:37.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6162ms or 123 ticks behind
+[17Jun2025 05:02:58.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK moved too quickly! 4.298045325735075,-1.0630887581413333,9.327523841174298
+[17Jun2025 05:02:58.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -3.7137143889713116,-7.0,6.513596760064502
+[17Jun2025 05:03:00.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8270ms or 165 ticks behind
+[17Jun2025 05:04:59.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[17Jun2025 05:05:14.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=6296, y=69, z=5965} BlockPos{x=6296, y=71, z=5965}
+[17Jun2025 05:05:18.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has reached the goal [Opposites Attract]
+[17Jun2025 05:05:55.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK moved wrongly!
+[17Jun2025 05:05:56.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported CLOCKWORK to TheForgottenNeo]
+[17Jun2025 05:05:56.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has reached the goal [Opposites Attract]
+[17Jun2025 05:05:57.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[17Jun2025 05:05:57.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has reached the goal [Opposites Attract]
+[17Jun2025 05:06:33.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has reached the goal [Magnetron No More]
+[17Jun2025 05:07:47.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Push and Pull]
+[17Jun2025 05:07:51.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[17Jun2025 05:08:00.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Publicity Stunt]
+[17Jun2025 05:08:21.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported CLOCKWORK to TheForgottenNeo]
+[17Jun2025 05:08:48.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Teletor's Telecore]
+[17Jun2025 05:09:05.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has reached the goal [Magnetron No More]
