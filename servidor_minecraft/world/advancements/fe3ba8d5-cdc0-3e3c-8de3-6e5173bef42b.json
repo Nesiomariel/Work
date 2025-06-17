@@ -8558,77 +8558,35 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "vanillatweaks:root": {
     "criteria": {
-      "log_spam_fixer": "2025-06-17 06:26:07 +0000"
+      "tick": "2025-06-17 22:54:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "vanillatweaks:tpa": {
     "criteria": {
-      "log_spam_fixer": "2025-06-17 06:26:07 +0000"
+      "tick": "2025-06-17 22:54:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "vanillatweaks:double_shulker_shells": {
     "criteria": {
-      "log_spam_fixer": "2025-06-17 06:26:07 +0000"
+      "tick": "2025-06-17 22:54:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
-      "log_spam_fixer": "2025-06-17 06:26:07 +0000"
+      "has_log": "2025-06-17 22:57:13 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-06-17 06:26:07 +0000"
+      "has_log": "2025-06-17 22:57:13 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 06:26:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 06:26:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 06:26:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 06:26:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 06:26:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 06:26:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 06:26:07 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

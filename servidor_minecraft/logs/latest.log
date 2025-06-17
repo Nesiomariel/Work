@@ -1502,3 +1502,25 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [17Jun2025 22:54:35.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
 [17Jun2025 22:55:18.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
 [17Jun2025 22:55:22.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[17Jun2025 23:00:03.069] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:56913] logged in with entity id 3016 at (73.76564947513006, 104.0, -479.9721105097885)
+[17Jun2025 23:00:03.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[17Jun2025 23:00:09.729] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheForgottenNeo (18)
+[17Jun2025 23:00:09.730] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[17Jun2025 23:00:37.077] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5c6629b-2855-3743-a573-3a0212864369
+[17Jun2025 23:00:38.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
+[17Jun2025 23:00:38.079] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
+[17Jun2025 23:01:38.526] [Server thread/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/Work/servidor_minecraft/tacz
+[17Jun2025 23:01:38.526] [Server thread/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[17Jun2025 23:01:38.526] [Server thread/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[17Jun2025 23:01:38.583] [Server thread/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/Work/servidor_minecraft/tacz
+[17Jun2025 23:01:38.584] [Server thread/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[17Jun2025 23:01:38.584] [Server thread/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[17Jun2025 23:03:51.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by ElSilverSito
+[17Jun2025 23:03:51.627] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[17Jun2025 23:04:06.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by ElSilverSito
+[17Jun2025 23:04:06.365] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[17Jun2025 23:04:19.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by ElSilverSito
+[17Jun2025 23:04:19.986] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[17Jun2025 23:04:59.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by ElSilverSito
+[17Jun2025 23:04:59.841] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[17Jun2025 23:05:36.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has reached the goal [Bone Crusher]
