@@ -12659,9 +12659,15 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-06-17 07:46:52 +0000"
+      "requirement": "2025-06-17 07:56:52 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-06-17 07:48:12 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
