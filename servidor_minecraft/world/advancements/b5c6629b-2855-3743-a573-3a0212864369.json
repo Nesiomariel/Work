@@ -12658,33 +12658,45 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
     "criteria": {
-      "log_spam_fixer": "2025-06-17 09:11:52 +0000"
+      "has_magnet_upgrade": "2025-06-17 07:48:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "jcraft:recipes/misc/kq_coin": {
     "criteria": {
-      "log_spam_fixer": "2025-06-17 09:11:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 09:11:52 +0000"
-    },
-    "done": false
-  },
-  "jcraft:obtain_stand_disc": {
-    "criteria": {
-      "has_disc": "2025-06-17 09:08:24 +0000"
+      "has_nugget": "2025-06-17 08:23:51 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-06-17 08:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-17 08:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-17 08:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-17 08:39:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_the_recipe": "2025-06-17 08:43:01 +0000"
     },
     "done": true
   },
@@ -12700,83 +12712,17 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_omega_tier": {
     "criteria": {
-      "has_the_recipe": "2025-06-17 08:43:01 +0000"
+      "has_stack_upgrade_tier_4": "2025-06-17 08:43:37 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 09:11:52 +0000"
-    },
-    "done": false
-  },
-  "jcraft:recipes/misc/kq_coin": {
-    "criteria": {
-      "has_nugget": "2025-06-17 08:23:51 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 09:11:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 09:11:52 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-06-17 08:39:14 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 09:11:52 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-06-17 08:39:14 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 09:11:52 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-06-17 08:48:49 +0000"
     },
     "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
-    "criteria": {
-      "has_magnet_upgrade": "2025-06-17 07:48:12 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 09:11:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 09:11:52 +0000"
-    },
-    "done": false
   },
   "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
@@ -12790,27 +12736,9 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
-      "log_spam_fixer": "2025-06-17 09:11:52 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 09:11:52 +0000"
-    },
-    "done": false
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_omega_tier": {
-    "criteria": {
-      "has_stack_upgrade_tier_4": "2025-06-17 08:43:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-06-17 08:39:14 +0000"
+      "has_brick": "2025-06-17 08:48:49 +0000"
     },
     "done": true
   },
@@ -12820,11 +12748,83 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
+  "jcraft:obtain_stand_disc": {
     "criteria": {
-      "has_brick": "2025-06-17 08:48:49 +0000"
+      "has_disc": "2025-06-17 09:08:24 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-17 09:12:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-17 09:12:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-17 09:12:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-17 09:12:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-17 09:12:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-17 09:12:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-17 09:12:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-17 09:12:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-17 09:12:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-17 09:12:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-17 09:12:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-17 09:12:53 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
