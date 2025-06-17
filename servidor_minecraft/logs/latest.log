@@ -1524,3 +1524,157 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [17Jun2025 23:04:59.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was shot by ElSilverSito
 [17Jun2025 23:04:59.841] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
 [17Jun2025 23:05:36.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has reached the goal [Bone Crusher]
+[17Jun2025 23:07:47.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Gave 10000 experience points to TheForgottenNeo]
+[17Jun2025 23:10:33.128] [Server thread/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/Work/servidor_minecraft/tacz
+[17Jun2025 23:10:33.128] [Server thread/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[17Jun2025 23:10:33.128] [Server thread/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[17Jun2025 23:10:36.182] [Server thread/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/Work/servidor_minecraft/tacz
+[17Jun2025 23:10:36.182] [Server thread/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[17Jun2025 23:10:36.182] [Server thread/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[17Jun2025 23:11:04.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Made TheForgottenNeo no longer a server operator]
+[17Jun2025 23:11:52.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ElSilverSito a server operator
+[17Jun2025 23:11:57.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> a
+[17Jun2025 23:12:20.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[17Jun2025 23:12:32.722] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand PurpleHazeEntity['Purple Haze'/6080, l='ServerLevel[world]', x=66.54, y=104.80, z=-461.03]
+[17Jun2025 23:12:32.722] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand PurpleHazeEntity['Purple Haze'/6080, l='ServerLevel[world]', x=66.54, y=104.80, z=-461.03, removed=DISCARDED]
+[17Jun2025 23:12:37.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[17Jun2025 23:12:52.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[17Jun2025 23:13:02.630] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand KingCrimsonEntity['King Crimson'/6332, l='ServerLevel[world]', x=60.08, y=110.99, z=-468.63]
+[17Jun2025 23:13:02.630] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand KingCrimsonEntity['King Crimson'/6332, l='ServerLevel[world]', x=60.08, y=110.99, z=-468.63, removed=DISCARDED]
+[17Jun2025 23:13:05.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[17Jun2025 23:13:42.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[17Jun2025 23:14:00.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[17Jun2025 23:15:10.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[17Jun2025 23:15:16.432] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:16.433] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:16.487] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:16.488] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:16.529] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:16.529] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:16.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:16.578] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:16.627] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:16.628] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:16.678] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:16.678] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:16.728] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:16.728] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:16.781] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:16.781] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:16.829] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:16.829] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:16.878] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:16.878] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:16.929] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:16.929] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:16.979] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:16.979] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:17.026] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.027] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:17.078] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.079] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:17.127] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.128] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:17.177] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.177] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:17.228] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.229] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:17.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.280] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:17.325] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.326] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:1b,selected:4,tick:12304,type:"ENTITY"}
+[17Jun2025 23:15:17.380] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.381] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:17.429] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.430] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:17.479] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.479] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:17.533] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.533] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:17.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.578] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:17.632] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.632] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:17.681] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.682] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:17.729] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.729] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:17.779] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.779] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:17.828] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.829] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:17.880] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.880] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:17.931] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.931] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:17.979] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:17.979] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.032] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.033] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.082] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.082] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.130] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.131] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.178] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.178] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.236] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.236] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.278] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.279] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.330] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.330] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.383] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.384] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.429] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.429] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.477] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.477] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.530] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.530] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.578] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.579] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.626] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.626] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.683] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.683] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.728] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.728] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.778] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.778] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.829] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.830] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:18.831] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jun2025 23:15:18.831] [Server thread/ERROR] [Carry On/]: Called EntityType#create even though no entity data was present. Data: {entity:{},keyPressed:0b,selected:4,tick:12323,type:"ENTITY"}
+[17Jun2025 23:15:36.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[17Jun2025 23:15:51.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2253ms or 45 ticks behind
+[17Jun2025 23:16:09.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2179ms or 43 ticks behind
+[17Jun2025 23:16:09.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[17Jun2025 23:16:50.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
+[17Jun2025 23:16:50.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[17Jun2025 23:16:50.632] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheForgottenNeo
+[17Jun2025 23:17:04.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:48553] logged in with entity id 7967 at (76.26932554616401, 104.0, -482.9177342210247)
+[17Jun2025 23:17:04.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[17Jun2025 23:17:04.690] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheForgottenNeo (18)
+[17Jun2025 23:17:04.690] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[17Jun2025 23:17:16.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[17Jun2025 23:17:26.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5c6629b-2855-3743-a573-3a0212864369
+[17Jun2025 23:17:27.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
+[17Jun2025 23:17:27.933] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
+[17Jun2025 23:17:47.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17Jun2025 23:19:32.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[17Jun2025 23:20:26.981] [Server thread/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /workspaces/Work/servidor_minecraft/tacz
+[17Jun2025 23:20:26.982] [Server thread/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[17Jun2025 23:20:26.982] [Server thread/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[17Jun2025 23:21:24.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported TheForgottenNeo to ElSilverSito]
+[17Jun2025 23:21:27.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported TheForgottenNeo to ElSilverSito]
+[17Jun2025 23:23:13.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[17Jun2025 23:23:24.922] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand WhiteSnakeEntity['Whitesnake'/9492, l='ServerLevel[world]', x=71.71, y=104.00, z=-482.35]
+[17Jun2025 23:23:24.922] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand WhiteSnakeEntity['Whitesnake'/9492, l='ServerLevel[world]', x=71.71, y=104.00, z=-482.35, removed=DISCARDED]
+[17Jun2025 23:23:28.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[17Jun2025 23:23:33.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[17Jun2025 23:23:41.220] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand TheSunEntity['The Sun'/9941, l='ServerLevel[world]', x=70.90, y=134.96, z=-481.36]
+[17Jun2025 23:23:41.220] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand TheSunEntity['The Sun'/9941, l='ServerLevel[world]', x=70.90, y=134.96, z=-481.36, removed=DISCARDED]
+[17Jun2025 23:23:44.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[17Jun2025 23:24:23.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
+[17Jun2025 23:24:23.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[17Jun2025 23:24:23.722] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheForgottenNeo
