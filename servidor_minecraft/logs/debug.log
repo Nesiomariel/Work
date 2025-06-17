@@ -15591,3 +15591,29 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [17Jun2025 23:47:39.388] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CLOCKWORK: {disabled=false, disconnected=false, uuid=4e990c8e-cdce-3746-81fd-75cde3bbf744, name=CLOCKWORK, group=null}
 [17Jun2025 23:47:59.721] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CLOCKWORK: {disabled=true, disconnected=false, uuid=4e990c8e-cdce-3746-81fd-75cde3bbf744, name=CLOCKWORK, group=null}
 [17Jun2025 23:48:08.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Creative Mode]
+[17Jun2025 23:48:14.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
+[17Jun2025 23:48:21.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CLOCKWORK> xaero-waypoint:Shared Location:S:-2100:-46:-2528:5:false:0:Internal-overworld-waypoints
+[17Jun2025 23:48:33.388] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CLOCKWORK: {disabled=false, disconnected=false, uuid=4e990c8e-cdce-3746-81fd-75cde3bbf744, name=CLOCKWORK, group=null}
+[17Jun2025 23:48:34.683] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CLOCKWORK: {disabled=true, disconnected=false, uuid=4e990c8e-cdce-3746-81fd-75cde3bbf744, name=CLOCKWORK, group=null}
+[17Jun2025 23:49:01.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 23:49:01.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 23:49:05.626] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CLOCKWORK: {disabled=false, disconnected=false, uuid=4e990c8e-cdce-3746-81fd-75cde3bbf744, name=CLOCKWORK, group=null}
+[17Jun2025 23:49:25.984] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CLOCKWORK: {disabled=true, disconnected=false, uuid=4e990c8e-cdce-3746-81fd-75cde3bbf744, name=CLOCKWORK, group=null}
+[17Jun2025 23:51:23.673] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CLOCKWORK: {disabled=false, disconnected=false, uuid=4e990c8e-cdce-3746-81fd-75cde3bbf744, name=CLOCKWORK, group=null}
+[17Jun2025 23:52:27.630] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of CLOCKWORK: {disabled=true, disconnected=false, uuid=4e990c8e-cdce-3746-81fd-75cde3bbf744, name=CLOCKWORK, group=null}
+[17Jun2025 23:54:01.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 23:54:02.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 23:54:05.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2663ms or 53 ticks behind
+[17Jun2025 23:54:05.508] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750204445504
+[17Jun2025 23:54:16.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[17Jun2025 23:54:20.284] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750204460284
+[17Jun2025 23:55:08.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
+[17Jun2025 23:55:08.952] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750204508952
+[17Jun2025 23:55:23.819] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750204523784
+[17Jun2025 23:55:49.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Creative Mode]
+[17Jun2025 23:56:19.572] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[17Jun2025 23:56:20.571] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[17Jun2025 23:57:11.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
+[17Jun2025 23:57:29.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set the weather to clear]
+[17Jun2025 23:57:58.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[17Jun2025 23:58:14.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]

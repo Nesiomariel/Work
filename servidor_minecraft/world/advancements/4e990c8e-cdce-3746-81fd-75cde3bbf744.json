@@ -3497,87 +3497,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 23:46:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 23:46:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 23:46:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 23:46:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 23:46:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 23:46:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 23:46:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 23:46:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 23:46:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 23:46:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 23:46:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-17 23:46:02 +0000"
-    },
-    "done": false
-  },
   "vanillatweaks:root": {
     "criteria": {
       "tick": "2025-06-17 23:36:58 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/misc/stand_disc": {
-    "criteria": {
-      "has_arrow": "2025-06-17 23:41:37 +0000"
     },
     "done": true
   },
@@ -3587,9 +3509,15 @@
     },
     "done": true
   },
-  "jcraft:obtain_stand_disc": {
+  "vanillatweaks:double_shulker_shells": {
     "criteria": {
-      "has_disc": "2025-06-17 23:45:01 +0000"
+      "tick": "2025-06-17 23:36:58 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/stand_disc": {
+    "criteria": {
+      "has_arrow": "2025-06-17 23:41:37 +0000"
     },
     "done": true
   },
@@ -3605,9 +3533,15 @@
     },
     "done": true
   },
-  "vanillatweaks:double_shulker_shells": {
+  "jcraft:obtain_stand_arrow": {
     "criteria": {
-      "tick": "2025-06-17 23:36:58 +0000"
+      "has_arrow": "2025-06-17 23:41:37 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_stand_disc": {
+    "criteria": {
+      "has_disc": "2025-06-17 23:45:01 +0000"
     },
     "done": true
   },
@@ -3617,9 +3551,9 @@
     },
     "done": true
   },
-  "jcraft:obtain_stand_arrow": {
+  "jcraft:obtain_requiem_arrow": {
     "criteria": {
-      "has_arrow": "2025-06-17 23:41:37 +0000"
+      "has_arrow": "2025-06-17 23:53:31 +0000"
     },
     "done": true
   },
