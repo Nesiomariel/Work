@@ -232,7 +232,8 @@
       "mutton": "2025-06-13 05:41:06 +0000",
       "bread": "2025-06-13 21:46:42 +0000",
       "golden_apple": "2025-06-14 04:09:28 +0000",
-      "rotten_flesh": "2025-06-13 07:04:17 +0000"
+      "rotten_flesh": "2025-06-13 07:04:17 +0000",
+      "enchanted_golden_apple": "2025-06-17 08:40:54 +0000"
     },
     "done": false
   },
@@ -12659,9 +12660,33 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-06-17 08:31:52 +0000"
+      "requirement": "2025-06-17 08:51:52 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-17 08:39:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_the_recipe": "2025-06-17 08:43:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_stack_upgrade_tier_3": "2025-06-17 08:43:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_the_recipe": "2025-06-17 08:43:01 +0000"
+    },
+    "done": true
   },
   "jcraft:recipes/misc/kq_coin": {
     "criteria": {
@@ -12669,9 +12694,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-17 08:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-17 08:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-06-17 08:48:49 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
     "criteria": {
       "has_magnet_upgrade": "2025-06-17 07:48:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-06-17 08:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-17 08:48:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_omega_tier": {
+    "criteria": {
+      "has_stack_upgrade_tier_4": "2025-06-17 08:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-17 08:39:14 +0000"
+    },
+    "done": true
+  },
+  "botanypots:husbandry/get_basic_pot": {
+    "criteria": {
+      "get_botany_pot": "2025-06-17 08:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-06-17 08:48:49 +0000"
     },
     "done": true
   },
