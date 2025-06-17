@@ -1416,3 +1416,56 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [17Jun2025 04:40:31.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has made the advancement [Magic Writing]
 [17Jun2025 04:44:41.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2442ms or 48 ticks behind
 [17Jun2025 04:44:41.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 1.7540761376490082,-10.799331086620143,0.4300068913216819
+[17Jun2025 04:49:11.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30398ms or 607 ticks behind
+[17Jun2025 04:49:11.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK lost connection: Disconnected
+[17Jun2025 04:49:11.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK left the game
+[17Jun2025 04:49:11.539] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CLOCKWORK
+[17Jun2025 04:49:11.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
+[17Jun2025 04:49:11.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[17Jun2025 04:49:11.546] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheForgottenNeo
+[17Jun2025 04:49:11.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[17Jun2025 04:49:11.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: say<--[HERE]
+[17Jun2025 04:49:11.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
+[17Jun2025 04:49:24.302] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:57341] logged in with entity id 40878 at (3893.4589894993273, 64.78070042875336, 3233.505556028092)
+[17Jun2025 04:49:24.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[17Jun2025 04:49:24.912] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheForgottenNeo (18)
+[17Jun2025 04:49:24.912] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
+[17Jun2025 04:49:37.339] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b5c6629b-2855-3743-a573-3a0212864369
+[17Jun2025 04:49:38.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b5c6629b-2855-3743-a573-3a0212864369
+[17Jun2025 04:49:38.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheForgottenNeo (b5c6629b-2855-3743-a573-3a0212864369) successfully connected to voice chat
+[17Jun2025 04:50:15.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElSilverSito[/127.164.157.169:33281] logged in with entity id 41468 at (51.65047538164965, 103.0, -450.60321683415566)
+[17Jun2025 04:50:15.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito joined the game
+[17Jun2025 04:50:17.470] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElSilverSito (18)
+[17Jun2025 04:50:17.471] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElSilverSito
+[17Jun2025 04:50:31.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[17Jun2025 04:50:32.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[17Jun2025 04:50:32.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElSilverSito (fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b) successfully connected to voice chat
+[17Jun2025 04:50:54.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> a
+[17Jun2025 04:51:37.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito lost connection: Disconnected
+[17Jun2025 04:51:37.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito left the game
+[17Jun2025 04:51:37.996] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElSilverSito
+[17Jun2025 04:51:41.084] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=6, z=307}
+[17Jun2025 04:51:46.548] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=5, z=298}
+[17Jun2025 04:51:46.549] [Worker-Main-111/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=5, z=298}
+[17Jun2025 04:52:05.600] [Worker-Main-103/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[17Jun2025 04:52:05.654] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[17Jun2025 04:52:05.655] [Worker-Main-110/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[17Jun2025 04:52:20.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CLOCKWORK[/127.98.189.132:59331] logged in with entity id 42745 at (3842.3074677839213, 47.94668363530064, 3189.237500011921)
+[17Jun2025 04:52:20.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK joined the game
+[17Jun2025 04:52:22.307] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CLOCKWORK (18)
+[17Jun2025 04:52:22.307] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CLOCKWORK
+[17Jun2025 04:52:28.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported CLOCKWORK to TheForgottenNeo]
+[17Jun2025 04:52:34.173] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[17Jun2025 04:52:35.174] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[17Jun2025 04:52:35.177] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CLOCKWORK (4e990c8e-cdce-3746-81fd-75cde3bbf744) successfully connected to voice chat
+[17Jun2025 04:54:19.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported CLOCKWORK to TheForgottenNeo]
+[17Jun2025 04:56:04.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElSilverSito[/127.164.157.169:49535] logged in with entity id 45251 at (51.65047538164965, 103.0, -450.60321683415566)
+[17Jun2025 04:56:04.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito joined the game
+[17Jun2025 04:56:06.799] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ElSilverSito (18)
+[17Jun2025 04:56:06.800] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElSilverSito
+[17Jun2025 04:56:17.700] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[17Jun2025 04:56:18.705] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[17Jun2025 04:56:18.705] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElSilverSito (fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b) successfully connected to voice chat
+[17Jun2025 04:56:34.557] [Worker-Main-92/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Jun2025 04:56:34.558] [Worker-Main-92/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[17Jun2025 04:56:47.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK moved too quickly! 7.22092677015371,4.08490883163509,6.174124784577543
