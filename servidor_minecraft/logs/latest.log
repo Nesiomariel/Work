@@ -1367,3 +1367,5 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [17Jun2025 02:44:47.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 27065ms or 541 ticks behind
 [17Jun2025 02:44:47.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> a
 [17Jun2025 02:45:08.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[17Jun2025 02:58:03.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [A Strange Grave Dust]
+[17Jun2025 02:59:38.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has completed the challenge [It Spreads]

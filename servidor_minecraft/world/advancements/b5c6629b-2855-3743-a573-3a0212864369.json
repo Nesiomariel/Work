@@ -12037,11 +12037,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "requirement": "2025-06-17 02:53:16 +0000"
+      "from_undead": "2025-06-17 02:58:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
