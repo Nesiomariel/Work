@@ -98,12 +98,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-06-14 22:49:25 +0000",
+      "minecraft:deep_ocean": "2025-06-17 04:42:09 +0000",
       "minecraft:cherry_grove": "2025-06-14 22:48:41 +0000",
       "minecraft:birch_forest": "2025-06-15 03:07:44 +0000",
       "minecraft:beach": "2025-06-15 01:38:41 +0000",
       "minecraft:river": "2025-06-14 22:31:20 +0000",
       "minecraft:stony_shore": "2025-06-15 03:07:25 +0000",
       "minecraft:grove": "2025-06-14 22:49:21 +0000",
+      "minecraft:cold_ocean": "2025-06-17 04:40:18 +0000",
       "minecraft:forest": "2025-06-14 22:02:09 +0000",
       "minecraft:ocean": "2025-06-15 01:38:06 +0000",
       "minecraft:frozen_peaks": "2025-06-14 22:50:33 +0000",
@@ -492,9 +494,11 @@
       "orchard": "2025-06-14 22:13:33 +0000",
       "lavender_forest": "2025-06-14 22:27:59 +0000",
       "moor": "2025-06-15 03:11:33 +0000",
+      "coniferous_forest": "2025-06-17 04:32:05 +0000",
       "spider_nest": "2025-06-14 22:35:02 +0000",
       "redwood_forest": "2025-06-14 22:31:36 +0000",
-      "grassland": "2025-06-14 22:09:00 +0000"
+      "grassland": "2025-06-14 22:09:00 +0000",
+      "undergrowth": "2025-06-17 04:11:33 +0000"
     },
     "done": false
   },
@@ -2101,6 +2105,8 @@
       "minecraft:vindicator": "2025-06-16 04:18:38 +0000",
       "minecraft:spider": "2025-06-15 03:10:56 +0000",
       "minecraft:creeper": "2025-06-15 03:10:53 +0000",
+      "minecraft:phantom": "2025-06-17 04:17:44 +0000",
+      "minecraft:enderman": "2025-06-17 04:19:42 +0000",
       "minecraft:zombie": "2025-06-16 03:50:08 +0000"
     },
     "done": false
@@ -2729,9 +2735,57 @@
     },
     "done": true
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-06-17 04:11:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-06-17 02:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-17 04:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-17 04:43:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-06-17 04:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-17 04:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-17 04:33:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-17 04:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-06-17 04:40:32 +0000"
     },
     "done": true
   },
@@ -2741,15 +2795,93 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-06-17 04:23:56 +0000"
+    },
+    "done": true
+  },
+  "bettermcdonaldsmod:recipes/food/beef_patty": {
+    "criteria": {
+      "has_beef": "2025-06-17 04:13:33 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-06-17 02:34:46 +0000"
     },
     "done": true
   },
+  "iammusicplayer:recipes/misc/manual": {
+    "criteria": {
+      "has_book": "2025-06-17 04:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-17 04:13:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skunk": {
+    "criteria": {
+      "ex": "2025-06-17 04:23:18 +0000"
+    },
+    "done": true
+  },
   "table_top_craft:root": {
     "criteria": {
       "make_chess_move": "2025-06-17 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-17 04:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-17 04:11:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-17 04:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-17 04:43:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-17 04:43:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-06-17 04:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-17 04:40:32 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:the_hoarding_begins": {
+    "criteria": {
+      "ChessPieceFigure": "2025-06-17 04:24:17 +0000"
     },
     "done": true
   },
@@ -2771,15 +2903,57 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-06-17 04:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-17 04:11:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-06-17 02:42:10 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-17 04:23:56 +0000"
+    },
+    "done": true
+  },
   "table_top_craft:first_chess_move": {
     "criteria": {
       "make_chess_move": "2025-06-17 02:44:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-17 04:40:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-06-17 04:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-17 04:13:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-06-17 04:23:56 +0000"
     },
     "done": true
   },
