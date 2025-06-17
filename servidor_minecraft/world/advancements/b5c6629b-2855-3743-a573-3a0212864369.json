@@ -12118,7 +12118,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-06-17 06:09:38 +0000"
+      "requirement": "2025-06-17 06:20:07 +0000"
     },
     "done": false
   },
@@ -12380,9 +12380,21 @@
     },
     "done": true
   },
+  "reliquary:recipes/mob_charm": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-06-17 06:15:16 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/telecore": {
     "criteria": {
       "limestone": "2025-06-17 05:11:24 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_belt": {
+    "criteria": {
+      "has_mob_charm_fragment": "2025-06-17 06:15:16 +0000"
     },
     "done": true
   },

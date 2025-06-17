@@ -1649,3 +1649,58 @@ Reason: Banned by an operator.
 [17Jun2025 06:10:11.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CLOCKWORK> esqje.e
 [17Jun2025 06:10:13.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3319ms or 66 ticks behind
 [17Jun2025 06:10:13.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CLOCKWORK> eq
+[17Jun2025 06:10:23.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CLOCKWORK> esqueleto full netherita
+[17Jun2025 06:10:30.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! -9.687434374799267,-3.551122138392614,-1.77267132653094
+[17Jun2025 06:10:34.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5885ms or 117 ticks behind
+[17Jun2025 06:10:37.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[17Jun2025 06:11:43.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from CLOCKWORK]
+[17Jun2025 06:11:50.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has reached the goal [A self-respecting Soul]
+[17Jun2025 06:11:54.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from 3 targets]
+[17Jun2025 06:12:02.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK has reached the goal [I see clearly now]
+[17Jun2025 06:12:05.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from 3 targets]
+[17Jun2025 06:12:48.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from 3 targets]
+[17Jun2025 06:12:59.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17Jun2025 06:13:00.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from 3 targets]
+[17Jun2025 06:13:04.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from 3 targets]
+[17Jun2025 06:13:17.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17Jun2025 06:13:23.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from TheForgottenNeo]
+[17Jun2025 06:13:32.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from 3 targets]
+[17Jun2025 06:13:45.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[17Jun2025 06:13:48.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17Jun2025 06:13:57.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from 3 targets]
+[17Jun2025 06:14:07.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[17Jun2025 06:14:11.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[17Jun2025 06:14:21.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from 3 targets]
+[17Jun2025 06:14:34.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17Jun2025 06:14:50.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from 3 targets]
+[17Jun2025 06:14:55.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from 3 targets]
+[17Jun2025 06:14:55.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from 3 targets]
+[17Jun2025 06:14:58.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from 3 targets]
+[17Jun2025 06:14:59.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from 3 targets]
+[17Jun2025 06:14:59.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from 3 targets]
+[17Jun2025 06:15:00.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from 3 targets]
+[17Jun2025 06:15:00.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from 3 targets]
+[17Jun2025 06:15:01.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from 3 targets]
+[17Jun2025 06:15:01.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from 3 targets]
+[17Jun2025 06:15:02.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from 3 targets]
+[17Jun2025 06:15:02.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from 3 targets]
+[17Jun2025 06:15:15.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[17Jun2025 06:15:33.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[17Jun2025 06:15:53.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[17Jun2025 06:16:25.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from 3 targets]
+[17Jun2025 06:16:27.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from 3 targets]
+[17Jun2025 06:16:52.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported CLOCKWORK to ElSilverSito]
+[17Jun2025 06:16:53.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CLOCKWORK> tepeame
+[17Jun2025 06:16:56.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[17Jun2025 06:17:05.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from 3 targets]
+[17Jun2025 06:17:14.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17Jun2025 06:17:18.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[17Jun2025 06:17:34.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from 3 targets]
+[17Jun2025 06:17:52.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[17Jun2025 06:17:53.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[17Jun2025 06:17:58.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[17Jun2025 06:18:58.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[17Jun2025 06:19:19.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from ElSilverSito]
+[17Jun2025 06:19:57.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito lost connection: Disconnected
+[17Jun2025 06:19:57.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito left the game
+[17Jun2025 06:19:57.811] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElSilverSito
