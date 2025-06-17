@@ -103,11 +103,13 @@
       "minecraft:cherry_grove": "2025-06-14 00:16:16 +0000",
       "minecraft:birch_forest": "2025-06-14 02:34:19 +0000",
       "minecraft:wooded_badlands": "2025-06-16 07:48:40 +0000",
+      "minecraft:bamboo_jungle": "2025-06-17 05:49:42 +0000",
       "minecraft:badlands": "2025-06-16 07:42:32 +0000",
       "minecraft:savanna_plateau": "2025-06-16 08:06:18 +0000",
       "minecraft:beach": "2025-06-13 06:59:50 +0000",
       "minecraft:stony_peaks": "2025-06-16 07:49:10 +0000",
       "minecraft:dark_forest": "2025-06-17 04:59:17 +0000",
+      "minecraft:sparse_jungle": "2025-06-17 05:50:07 +0000",
       "minecraft:river": "2025-06-13 05:39:38 +0000",
       "minecraft:lukewarm_ocean": "2025-06-16 08:06:33 +0000",
       "minecraft:stony_shore": "2025-06-14 10:01:28 +0000",
@@ -119,6 +121,7 @@
       "minecraft:deep_cold_ocean": "2025-06-16 05:53:08 +0000",
       "minecraft:desert": "2025-06-14 02:36:58 +0000",
       "minecraft:ocean": "2025-06-13 07:00:31 +0000",
+      "minecraft:jungle": "2025-06-17 05:51:56 +0000",
       "minecraft:warm_ocean": "2025-06-16 07:44:05 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-16 08:07:14 +0000",
       "minecraft:flower_forest": "2025-06-15 01:17:19 +0000",
@@ -11730,6 +11733,7 @@
   },
   "alexscaves:alexscaves/eat_radiation_foods": {
     "criteria": {
+      "green_soylent": "2025-06-17 06:07:35 +0000",
       "spelunkie": "2025-06-16 06:27:10 +0000"
     },
     "done": false
@@ -12114,9 +12118,27 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-06-17 05:39:20 +0000"
+      "requirement": "2025-06-17 06:09:38 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-17 05:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-17 05:40:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
@@ -12130,9 +12152,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_pickup_upgrade": "2025-06-17 04:58:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
     },
     "done": true
   },
@@ -12142,9 +12182,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-17 05:40:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
     "criteria": {
       "has_jukebox_upgrade": "2025-06-17 04:58:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-06-17 06:06:03 +0000"
     },
     "done": true
   },
@@ -12154,9 +12206,21 @@
     },
     "done": true
   },
+  "jcraft:recipes/misc/requiem_ruby": {
+    "criteria": {
+      "has_redstone_block": "2025-06-17 06:05:53 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_naga": {
     "criteria": {
       "naga": "2025-06-17 05:36:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-06-17 06:04:24 +0000"
     },
     "done": true
   },
@@ -12166,9 +12230,51 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-06-17 05:13:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
     },
     "done": true
   },
@@ -12178,9 +12284,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-17 05:47:59 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-06-17 05:39:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
     },
     "done": true
   },
@@ -12202,6 +12320,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
     "criteria": {
       "has_flower": "2025-06-17 04:59:34 +0000"
@@ -12211,6 +12341,18 @@
   "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
       "requirement": "2025-06-17 05:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-17 05:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-17 05:40:00 +0000"
     },
     "done": true
   },
@@ -12232,15 +12374,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-17 05:40:00 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/telecore": {
     "criteria": {
       "limestone": "2025-06-17 05:11:24 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-06-17 06:05:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-06-17 06:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-06-17 05:40:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-06-17 06:06:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-17 05:47:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp": {
     "criteria": {
       "has_dried_kelp_block": "2025-06-17 05:32:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-06-17 06:01:00 +0000"
     },
     "done": true
   },
