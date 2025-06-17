@@ -11833,99 +11833,15 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "jcraft:recipes/transportation/road_roller": {
     "criteria": {
-      "log_spam_fixer": "2025-06-16 10:37:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 10:37:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 10:37:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 10:37:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 10:37:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 10:37:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 10:37:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 10:37:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 10:37:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 10:37:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 10:37:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-16 10:37:49 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dye_brown_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 10:05:58 +0000"
+      "has_iron_block": "2025-06-16 09:31:32 +0000"
     },
     "done": true
   },
-  "jcraft:recipes/misc/stand_disc": {
+  "jcraft:recipes/combat/boxing_gloves": {
     "criteria": {
-      "has_arrow": "2025-06-16 09:37:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2025-06-16 10:06:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-06-16 10:04:19 +0000"
+      "has_leather": "2025-06-16 09:32:39 +0000"
     },
     "done": true
   },
@@ -11935,21 +11851,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pink_terracotta": {
+  "jcraft:recipes/misc/stand_disc": {
     "criteria": {
-      "has_terracotta": "2025-06-16 10:04:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_glazed_terracotta": {
-    "criteria": {
-      "has_brown_terracotta": "2025-06-16 10:06:41 +0000"
+      "has_arrow": "2025-06-16 09:37:32 +0000"
     },
     "done": true
   },
   "jcraft:recipes/misc/living_arrow": {
     "criteria": {
       "has_arrow": "2025-06-16 09:37:32 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/requiem_arrow": {
+    "criteria": {
+      "has_arrow": "2025-06-16 09:37:32 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_stand_arrow": {
+    "criteria": {
+      "has_arrow": "2025-06-16 09:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-06-16 10:04:14 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/grout_multiple": {
+    "criteria": {
+      "has_item": "2025-06-16 10:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-16 10:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-06-16 10:04:19 +0000"
     },
     "done": true
   },
@@ -11968,18 +11914,6 @@
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-16 10:04:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 10:05:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/terracotta": {
-    "criteria": {
-      "has_clay_block": "2025-06-16 10:04:14 +0000"
     },
     "done": true
   },
@@ -12019,27 +11953,9 @@
     },
     "done": true
   },
-  "table_top_craft:root": {
-    "criteria": {
-      "get_chess_board": "2025-06-16 10:06:48 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/misc/requiem_arrow": {
-    "criteria": {
-      "has_arrow": "2025-06-16 09:37:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-16 10:04:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_candle": {
-    "criteria": {
-      "has_brown_dye": "2025-06-16 10:05:58 +0000"
     },
     "done": true
   },
@@ -12049,51 +11965,9 @@
     },
     "done": true
   },
-  "jcraft:recipes/combat/boxing_gloves": {
-    "criteria": {
-      "has_leather": "2025-06-16 09:32:39 +0000"
-    },
-    "done": true
-  },
-  "table_top_craft:getting_chess_board": {
-    "criteria": {
-      "getting_chess_board": "2025-06-16 10:06:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-16 10:04:19 +0000"
-    },
-    "done": true
-  },
-  "jcraft:obtain_stand_arrow": {
-    "criteria": {
-      "has_arrow": "2025-06-16 09:37:32 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/building_blocks/smeltery/seared/grout_multiple": {
-    "criteria": {
-      "has_item": "2025-06-16 10:04:14 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/transportation/road_roller": {
-    "criteria": {
-      "has_iron_block": "2025-06-16 09:31:32 +0000"
-    },
-    "done": true
-  },
-  "table_top_craft:first_chess_move": {
-    "criteria": {
-      "make_chess_move": "2025-06-16 10:07:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-06-16 10:05:58 +0000"
     },
     "done": true
   },
@@ -12106,6 +11980,78 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-16 10:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 10:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 10:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-06-16 10:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-16 10:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-06-16 10:06:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-06-16 10:06:41 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:root": {
+    "criteria": {
+      "get_chess_board": "2025-06-16 10:06:48 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:getting_chess_board": {
+    "criteria": {
+      "getting_chess_board": "2025-06-16 10:06:48 +0000"
+    },
+    "done": true
+  },
+  "table_top_craft:first_chess_move": {
+    "criteria": {
+      "make_chess_move": "2025-06-16 10:07:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-06-17 02:53:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-17 02:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-17 02:43:24 +0000"
     },
     "done": true
   },
