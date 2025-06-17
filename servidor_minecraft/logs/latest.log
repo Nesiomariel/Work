@@ -1691,3 +1691,21 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [17Jun2025 23:37:14.786] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4e990c8e-cdce-3746-81fd-75cde3bbf744
 [17Jun2025 23:37:14.786] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CLOCKWORK (4e990c8e-cdce-3746-81fd-75cde3bbf744) successfully connected to voice chat
 [17Jun2025 23:37:26.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to CLOCKWORK]
+[17Jun2025 23:42:02.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Creative Mode]
+[17Jun2025 23:42:42.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Survival Mode]
+[17Jun2025 23:43:03.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK moved wrongly!
+[17Jun2025 23:46:06.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CLOCKWORK lost connection: Kicked by an operator
+[17Jun2025 23:46:06.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK left the game
+[17Jun2025 23:46:06.075] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client CLOCKWORK
+[17Jun2025 23:46:06.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Kicked CLOCKWORK: Kicked by an operator]
+[17Jun2025 23:46:06.121] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jun2025 23:46:26.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Removed every effect from ElSilverSito]
+[17Jun2025 23:46:48.175] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5df9a4f9[id=<null>,name=CLOCKWORK,properties={},legacy=false] (/127.98.189.132:50169) lost connection: Disconnected
+[17Jun2025 23:46:56.933] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CLOCKWORK[/127.98.189.132:39239] logged in with entity id 16533 at (68.56827715290599, 104.0, -467.92546876106303)
+[17Jun2025 23:46:56.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CLOCKWORK joined the game
+[17Jun2025 23:46:57.389] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of CLOCKWORK (18)
+[17Jun2025 23:46:57.389] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to CLOCKWORK
+[17Jun2025 23:47:05.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[17Jun2025 23:47:07.659] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 4e990c8e-cdce-3746-81fd-75cde3bbf744
+[17Jun2025 23:47:07.660] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player CLOCKWORK (4e990c8e-cdce-3746-81fd-75cde3bbf744) successfully connected to voice chat
+[17Jun2025 23:48:08.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set own game mode to Creative Mode]
