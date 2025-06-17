@@ -1503,3 +1503,25 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [17Jun2025 08:40:26.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
 [17Jun2025 08:49:05.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Let It Grow]
 [17Jun2025 08:56:32.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[17Jun2025 09:03:18.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was killed
+[17Jun2025 09:03:19.242] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Hamster['Silver'/12681, l='ServerLevel[world]', x=268.66, y=151.00, z=-546.66] died: Silver was killed
+[17Jun2025 09:03:19.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Killed 586 entities]
+[17Jun2025 09:03:19.394] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[17Jun2025 09:03:50.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[17Jun2025 09:03:59.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[17Jun2025 09:05:27.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[17Jun2025 09:08:18.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[17Jun2025 09:08:25.541] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand SilverChariotEntity['Silver Chariot'/17685, l='ServerLevel[world]', x=92.32, y=90.00, z=-443.09]
+[17Jun2025 09:08:25.542] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand SilverChariotEntity['Silver Chariot'/17685, l='ServerLevel[world]', x=92.32, y=90.00, z=-443.09, removed=DISCARDED]
+[17Jun2025 09:08:39.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[17Jun2025 09:08:55.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[17Jun2025 09:10:08.786] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand TheSunEntity['The Sun'/18060, l='ServerLevel[world]', x=93.76, y=92.50, z=-435.54]
+[17Jun2025 09:10:08.787] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand TheSunEntity['The Sun'/18060, l='ServerLevel[world]', x=93.76, y=92.50, z=-435.54, removed=DISCARDED]
+[17Jun2025 09:11:34.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[17Jun2025 09:12:25.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo lost connection: Disconnected
+[17Jun2025 09:12:25.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo left the game
+[17Jun2025 09:12:25.644] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheForgottenNeo
+[17Jun2025 09:12:41.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheForgottenNeo[/127.159.187.102:48391] logged in with entity id 21092 at (90.2142843772416, 242.42776699371836, -439.7237548568983)
+[17Jun2025 09:12:41.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo joined the game
+[17Jun2025 09:12:42.139] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheForgottenNeo (18)
+[17Jun2025 09:12:42.139] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheForgottenNeo
