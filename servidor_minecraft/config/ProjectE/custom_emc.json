@@ -1,0 +1,56 @@
+{
+  "entries": [
+    {
+      "item": "create:raw_zinc",
+      "emc": 125
+    },
+    {
+      "item": "minecraft:glass_pane",
+      "emc": 6
+    },
+    {
+      "item": "create:andesite_casing",
+      "emc": 2
+    },
+    {
+      "item": "hamsters:hamster{AbsorptionAmount:0.0f,Age:0,Air:300s,ArmorDropChances:[0.085f,0.085f,0.085f,0.085f],ArmorItems:[{},{},{},{}],Attributes:[{Base:0.1d,Name:\"caelus:fall_flying\"},{Base:0.0d,Name:\"minecraft:generic.knockback_resistance\"},{Base:0.25d,Name:\"minecraft:generic.movement_speed\"},{Base:0.08d,Name:\"forge:entity_gravity\"},{Base:0.0d,Name:\"forge:step_height_addition\"},{Base:0.0d,Name:\"minecraft:generic.armor\"},{Base:1.5d,Name:\"minecraft:generic.attack_damage\"}],Brain:{memories:{}},CanPickUpLoot:1b,CitadelData:{},DeathTime:0s,FallFlying:0b,ForcedAge:4480,FromHand:0b,HandDropChances:[2.0f,0.085f],HandItems:[{Count:7b,id:\"minecraft:wheat_seeds\"},{}],Health:5.0f,HurtByTimestamp:0,HurtTime:0s,InLove:0,Invulnerable:0b,LeftHanded:0b,LoveCause:[I;-29644587,-843039172,-1914474927,1941894187],Owner:[I;-29644587,-843039172,-1914474927,1941894187],PersistenceRequired:0b,RunTicks:1409,RunningTicks:0,Sitting:1b,Variant:3}",
+      "emc": 1
+    },
+    {
+      "item": "create:iron_sheet",
+      "emc": 150
+    },
+    {
+      "item": "create:brass_ingot",
+      "emc": 270
+    },
+    {
+      "item": "create:brass_sheet",
+      "emc": 300
+    },
+    {
+      "item": "create:polished_rose_quartz",
+      "emc": 12
+    },
+    {
+      "item": "tconstruct:blazing_blood_bucket",
+      "emc": 12
+    },
+    {
+      "item": "create:precision_mechanism",
+      "emc": 12
+    },
+    {
+      "item": "tacz:ammo{AmmoId:\"tacz:556x45\"}",
+      "emc": 5000
+    },
+    {
+      "item": "tacz:ammo{AmmoId:\"tacz:12g\"}",
+      "emc": 2500
+    },
+    {
+      "item": "minecraft:wither_skeleton_skull",
+      "emc": 10000000
+    }
+  ]
+}
