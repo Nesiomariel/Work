@@ -13871,3 +13871,11 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [19Jun2025 08:05:11.053] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
 [19Jun2025 08:05:15.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Jun2025 08:05:15.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 08:08:44.162] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand GoldExperienceEntity['Gold Experience'/3625, l='ServerLevel[world]', x=96.87, y=242.00, z=-459.31]
+[19Jun2025 08:08:44.163] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand GoldExperienceEntity['Gold Experience'/3625, l='ServerLevel[world]', x=96.87, y=242.00, z=-459.31, removed=DISCARDED]
+[19Jun2025 08:09:08.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheForgottenNeo> 14
+[19Jun2025 08:10:15.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 08:10:15.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 08:12:49.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 08:15:15.067] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 08:15:15.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
