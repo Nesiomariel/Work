@@ -1174,11 +1174,15 @@
       "minecraft:skeleton": "2025-06-13 06:43:03 +0000",
       "minecraft:ghast": "2025-06-14 23:03:37 +0000",
       "minecraft:hoglin": "2025-06-13 23:04:58 +0000",
+      "minecraft:vindicator": "2025-06-19 06:49:16 +0000",
+      "minecraft:magma_cube": "2025-06-19 06:52:27 +0000",
       "minecraft:spider": "2025-06-14 05:16:26 +0000",
+      "minecraft:piglin_brute": "2025-06-19 06:53:04 +0000",
       "minecraft:creeper": "2025-06-13 06:49:47 +0000",
       "minecraft:wither": "2025-06-14 23:19:51 +0000",
       "minecraft:slime": "2025-06-14 09:00:08 +0000",
       "minecraft:phantom": "2025-06-16 04:37:15 +0000",
+      "minecraft:witch": "2025-06-18 00:07:26 +0000",
       "minecraft:wither_skeleton": "2025-06-14 07:18:28 +0000",
       "minecraft:cave_spider": "2025-06-13 06:43:45 +0000",
       "minecraft:piglin": "2025-06-13 23:06:13 +0000",
@@ -1718,6 +1722,7 @@
       "wasteland": "2025-06-14 08:50:00 +0000",
       "redwood_forest": "2025-06-15 03:21:12 +0000",
       "wasteland_steppe": "2025-06-14 08:57:59 +0000",
+      "lavender_field": "2025-06-19 06:48:05 +0000",
       "grassland": "2025-06-13 22:44:12 +0000",
       "prairie": "2025-06-14 08:47:46 +0000",
       "glowing_grotto": "2025-06-16 09:21:45 +0000",
@@ -8570,18 +8575,6 @@
     },
     "done": true
   },
-  "jcraft:obtain_stand_disc": {
-    "criteria": {
-      "has_disc": "2025-06-17 23:44:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/music_disc_5": {
-    "criteria": {
-      "has_disc_fragment_5": "2025-06-17 23:42:40 +0000"
-    },
-    "done": true
-  },
   "vanillatweaks:double_shulker_shells": {
     "criteria": {
       "tick": "2025-06-17 22:54:09 +0000"
@@ -8594,15 +8587,184 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-17 22:57:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-06-17 23:05:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
+  "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
-      "has_log": "2025-06-17 22:57:13 +0000"
+      "has_disc_fragment_5": "2025-06-17 23:42:40 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_stand_disc": {
+    "criteria": {
+      "has_disc": "2025-06-17 23:44:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-06-18 00:09:56 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-19 06:56:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-06-19 06:56:38 +0000",
+      "log_spam_fixer": "2025-06-19 06:56:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-19 06:56:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-19 06:56:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-19 06:56:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-19 06:56:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-19 06:56:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-19 06:56:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-19 06:56:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-19 06:56:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-19 06:56:37 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-19 06:56:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-19 06:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-19 06:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-19 06:51:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed": "2025-06-19 06:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_treasure": "2025-06-19 06:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-19 06:51:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-19 06:51:54 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/witch_eye": {
+    "criteria": {
+      "witch_eye": "2025-06-19 06:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-19 06:51:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-06-19 06:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-19 06:51:54 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-06-19 06:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-19 06:52:01 +0000"
     },
     "done": true
   },
