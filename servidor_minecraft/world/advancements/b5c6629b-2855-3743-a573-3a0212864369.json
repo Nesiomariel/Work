@@ -1449,15 +1449,19 @@
       "minecraft:pillager": "2025-06-14 02:52:04 +0000",
       "minecraft:blaze": "2025-06-14 04:12:56 +0000",
       "minecraft:skeleton": "2025-06-13 06:43:52 +0000",
+      "minecraft:elder_guardian": "2025-06-19 10:01:02 +0000",
+      "minecraft:ravager": "2025-06-19 09:58:48 +0000",
       "minecraft:ghast": "2025-06-17 04:19:53 +0000",
       "minecraft:hoglin": "2025-06-13 23:04:02 +0000",
       "minecraft:vindicator": "2025-06-15 03:12:49 +0000",
       "minecraft:spider": "2025-06-13 23:09:29 +0000",
       "minecraft:piglin_brute": "2025-06-14 04:07:59 +0000",
       "minecraft:creeper": "2025-06-13 06:34:47 +0000",
+      "minecraft:evoker": "2025-06-19 09:59:34 +0000",
       "minecraft:phantom": "2025-06-16 04:56:57 +0000",
       "minecraft:witch": "2025-06-14 22:21:58 +0000",
       "minecraft:wither_skeleton": "2025-06-14 04:12:13 +0000",
+      "minecraft:husk": "2025-06-19 10:03:23 +0000",
       "minecraft:cave_spider": "2025-06-17 05:07:29 +0000",
       "minecraft:piglin": "2025-06-14 04:06:40 +0000",
       "minecraft:silverfish": "2025-06-14 10:09:52 +0000",
@@ -12777,13 +12781,19 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-06-19 09:50:51 +0000"
+      "requirement": "2025-06-19 10:31:20 +0000"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2025-06-19 08:56:30 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/angelic_feather": {
+    "criteria": {
+      "has_nebulous_heart": "2025-06-19 10:28:15 +0000"
     },
     "done": true
   },
@@ -12811,9 +12821,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-19 10:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-19 10:01:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-19 09:17:28 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/ender_staff": {
+    "criteria": {
+      "has_nebulous_heart": "2025-06-19 10:28:15 +0000"
     },
     "done": true
   },
@@ -12841,6 +12869,12 @@
     },
     "done": true
   },
+  "jcraft:recipes/misc/stellar_iron_ingot_from_smelting": {
+    "criteria": {
+      "has_ore": "2025-06-19 10:13:03 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_copper_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-06-19 08:53:36 +0000"
@@ -12865,6 +12899,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-19 10:00:50 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/void_tear": {
+    "criteria": {
+      "has_nebulous_heart": "2025-06-19 10:28:15 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/alkahestry_altar": {
+    "criteria": {
+      "has_nebulous_heart": "2025-06-19 10:28:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-06-19 08:56:37 +0000"
@@ -12880,6 +12932,12 @@
   "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-19 09:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-19 10:00:50 +0000"
     },
     "done": true
   },
@@ -12907,6 +12965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-06-19 10:00:52 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_gold_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-06-19 08:53:36 +0000"
@@ -12919,6 +12983,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/magicbane": {
+    "criteria": {
+      "has_nebulous_heart": "2025-06-19 10:28:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-19 09:32:33 +0000"
@@ -12928,6 +12998,18 @@
   "ironchest:recipes/decorations/chests/trapped_obsidian_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-06-19 08:53:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-06-19 09:59:00 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-06-19 10:11:59 +0000"
     },
     "done": true
   },
@@ -12949,6 +13031,12 @@
     },
     "done": true
   },
+  "reliquary:recipes/misc/uncrafting/ender_pearl": {
+    "criteria": {
+      "has_nebulous_heart": "2025-06-19 10:28:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-06-19 08:58:28 +0000"
@@ -12958,6 +13046,24 @@
   "alexsmobs:alexsmobs/kangaroo": {
     "criteria": {
       "killed_by": "2025-06-19 09:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-06-19 10:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-06-19 10:00:50 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/crimson_cloth": {
+    "criteria": {
+      "has_nebulous_heart": "2025-06-19 10:28:15 +0000"
     },
     "done": true
   },
@@ -12991,6 +13097,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-19 10:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-19 10:00:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-19 09:17:28 +0000"
@@ -13006,6 +13124,24 @@
   "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
       "leafcutter_ant_pupa": "2025-06-19 08:53:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-19 10:11:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-19 10:01:21 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/fortune_coin": {
+    "criteria": {
+      "has_nebulous_heart": "2025-06-19 10:28:15 +0000"
     },
     "done": true
   },
@@ -13033,15 +13169,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-06-19 10:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-06-19 10:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-06-19 10:00:50 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/stellar_iron_ingot_from_blasting": {
+    "criteria": {
+      "has_ore": "2025-06-19 10:13:03 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_dirt_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-06-19 08:53:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-06-19 10:00:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-19 09:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-19 10:01:26 +0000"
     },
     "done": true
   },
@@ -13060,6 +13232,30 @@
   "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-19 09:17:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-19 10:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-19 09:59:07 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_meteorite_iron_ore": {
+    "criteria": {
+      "has_ore": "2025-06-19 10:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-06-19 10:11:24 +0000"
     },
     "done": true
   },
@@ -13087,6 +13283,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-06-19 10:11:43 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/mob_charm_fragments/enderman": {
+    "criteria": {
+      "has_nebulous_heart": "2025-06-19 10:28:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2025-06-19 09:28:57 +0000"
@@ -13111,9 +13319,21 @@
     },
     "done": true
   },
+  "jcraft:recipes/misc/green_baby": {
+    "criteria": {
+      "has_totem": "2025-06-19 09:59:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
     "criteria": {
       "has_light_blue_terracotta": "2025-06-19 09:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-06-19 10:00:50 +0000"
     },
     "done": true
   },
@@ -13123,9 +13343,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-19 10:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-19 10:01:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-06-19 09:32:33 +0000"
+    },
+    "done": true
+  },
+  "reliquary:recipes/misc/wraith_node": {
+    "criteria": {
+      "has_nebulous_heart": "2025-06-19 10:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-19 10:01:26 +0000"
     },
     "done": true
   },

@@ -1808,3 +1808,76 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [19Jun2025 09:48:37.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
 [19Jun2025 09:49:52.020] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c79cc92b: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
 [19Jun2025 09:49:52.073] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c79cc92b: RandomSpreadSearchWorker succeeded with 79 radius, 1 samples
+[19Jun2025 09:52:01.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 09:53:02.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 09:54:00.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Voluntary Exile]
+[19Jun2025 09:54:05.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[19Jun2025 09:56:39.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2308, y=52, z=624} BlockPos{x=-2308, y=55, z=624}
+[19Jun2025 09:56:39.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2308, y=50, z=624} BlockPos{x=-2308, y=52, z=624}
+[19Jun2025 09:58:36.126] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/133657, l='ServerLevel[world]', x=-2262.50, y=70.00, z=657.81] died, message: 'Golem Healer was shot by TheForgottenNeo'
+[19Jun2025 09:58:36.127] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/133657, l='ServerLevel[world]', x=-2262.50, y=70.00, z=657.81] died: Golem Healer was shot by TheForgottenNeo
+[19Jun2025 09:59:00.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [Village Defender]
+[19Jun2025 09:59:07.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has completed the challenge [Hero of the Village]
+[19Jun2025 09:59:07.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has completed the challenge [Hero of the Village]
+[19Jun2025 09:59:25.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Evoker]
+[19Jun2025 09:59:32.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Evoker]
+[19Jun2025 09:59:37.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Evoker]
+[19Jun2025 09:59:44.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Creative Mode]
+[19Jun2025 09:59:54.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set own game mode to Survival Mode]
+[19Jun2025 10:00:35.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to 3221.500000, 63.500000, 2562.500000]
+[19Jun2025 10:00:45.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 10:01:57.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was killed whilst fighting Guardian
+[19Jun2025 10:01:57.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was killed whilst fighting Guardian
+[19Jun2025 10:01:57.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Killed 511 entities]
+[19Jun2025 10:01:57.241] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[19Jun2025 10:01:57.241] [Server thread/INFO] [tombstone/]: The player ElSilverSito has successfully been saved
+[19Jun2025 10:02:07.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 10:02:55.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 10:02:55.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -2383.500000, 76.500000, 738.500000]
+[19Jun2025 10:03:05.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Elder Guardian]
+[19Jun2025 10:03:10.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[19Jun2025 10:03:16.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 10:03:25.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Elder Guardian]
+[19Jun2025 10:03:34.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8769ms or 175 ticks behind
+[19Jun2025 10:03:37.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Elder Guardian]
+[19Jun2025 10:03:43.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Elder Guardian]
+[19Jun2025 10:03:45.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Elder Guardian]
+[19Jun2025 10:03:46.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Elder Guardian]
+[19Jun2025 10:04:22.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Elder Guardian]
+[19Jun2025 10:05:20.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Pillager]
+[19Jun2025 10:05:32.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Who's Guarding The Temple Now?]
+[19Jun2025 10:06:47.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 10:08:07.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19Jun2025 10:08:24.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
+[19Jun2025 10:08:56.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19Jun2025 10:09:18.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[19Jun2025 10:09:35.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[19Jun2025 10:09:46.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 10:10:07.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set EMC value for tacz:ammo{AmmoId:"tacz:50bmg"} to 10000!]
+[19Jun2025 10:10:07.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Restart or use "/reload" when all changes are complete.]
+[19Jun2025 10:10:27.773] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c79cc92b: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[19Jun2025 10:10:28.015] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager c79cc92b: RandomSpreadSearchWorker succeeded with 786 radius, 13 samples
+[19Jun2025 10:11:14.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 10:11:35.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Fortune Seeker]
+[19Jun2025 10:11:59.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Fortune Seeker]
+[19Jun2025 10:12:48.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 10:15:12.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[19Jun2025 10:25:15.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to -2007.500000, 84.500000, 20.500000]
+[19Jun2025 10:25:24.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Set the time to 1000]
+[19Jun2025 10:25:50.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[19Jun2025 10:26:07.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19Jun2025 10:26:17.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! 3.0005233461311036,0.9138374734183969,10.291490186963358
+[19Jun2025 10:26:47.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Rabbit]
+[19Jun2025 10:26:52.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Rabbit]
+[19Jun2025 10:26:54.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19Jun2025 10:27:18.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Rabbit]
+[19Jun2025 10:27:24.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19Jun2025 10:27:25.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Rabbit]
+[19Jun2025 10:27:32.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Rabbit]
+[19Jun2025 10:27:33.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Rabbit]
+[19Jun2025 10:27:33.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Rabbit]
+[19Jun2025 10:27:34.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Rabbit]
+[19Jun2025 10:27:34.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Rabbit]
+[19Jun2025 10:27:34.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Summoned new Rabbit]
+[19Jun2025 10:27:46.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[19Jun2025 10:28:24.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [A Real Blessing]

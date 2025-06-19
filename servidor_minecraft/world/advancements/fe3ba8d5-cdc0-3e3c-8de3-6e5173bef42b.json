@@ -1177,8 +1177,10 @@
       "minecraft:pillager": "2025-06-14 09:22:20 +0000",
       "minecraft:blaze": "2025-06-14 21:27:43 +0000",
       "minecraft:skeleton": "2025-06-13 06:43:03 +0000",
+      "minecraft:elder_guardian": "2025-06-19 10:01:00 +0000",
       "minecraft:ghast": "2025-06-14 23:03:37 +0000",
       "minecraft:hoglin": "2025-06-13 23:04:58 +0000",
+      "minecraft:guardian": "2025-06-19 10:01:08 +0000",
       "minecraft:vindicator": "2025-06-19 06:49:16 +0000",
       "minecraft:magma_cube": "2025-06-19 06:52:27 +0000",
       "minecraft:spider": "2025-06-14 05:16:26 +0000",
@@ -1186,10 +1188,12 @@
       "minecraft:creeper": "2025-06-13 06:49:47 +0000",
       "minecraft:wither": "2025-06-14 23:19:51 +0000",
       "minecraft:slime": "2025-06-14 09:00:08 +0000",
+      "minecraft:evoker": "2025-06-19 09:59:28 +0000",
       "minecraft:phantom": "2025-06-16 04:37:15 +0000",
       "minecraft:zombified_piglin": "2025-06-19 07:05:59 +0000",
       "minecraft:witch": "2025-06-18 00:07:26 +0000",
       "minecraft:wither_skeleton": "2025-06-14 07:18:28 +0000",
+      "minecraft:husk": "2025-06-19 10:03:40 +0000",
       "minecraft:cave_spider": "2025-06-13 06:43:45 +0000",
       "minecraft:piglin": "2025-06-13 23:06:13 +0000",
       "minecraft:enderman": "2025-06-14 05:51:12 +0000",
@@ -8785,9 +8789,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-19 10:01:24 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed": "2025-06-19 09:06:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-06-19 10:14:45 +0000"
     },
     "done": true
   },
@@ -8803,6 +8819,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/retinal_scanner": {
+    "criteria": {
+      "has_stone": "2025-06-19 10:14:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-19 09:42:05 +0000"
@@ -8812,6 +8834,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-19 09:42:05 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/stellar_iron_ingot_from_smelting": {
+    "criteria": {
+      "has_ore": "2025-06-19 10:12:54 +0000"
     },
     "done": true
   },
@@ -8827,9 +8855,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
+    "criteria": {
+      "has_block": "2025-06-19 10:14:45 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/drain": {
     "criteria": {
       "has_item": "2025-06-19 08:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-19 10:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-19 09:54:00 +0000"
     },
     "done": true
   },
@@ -8863,6 +8909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-19 10:01:38 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/bone": {
     "criteria": {
       "has_rib_bone": "2025-06-19 09:45:09 +0000"
@@ -8875,9 +8927,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-06-19 10:14:45 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/smeltery/seared/lantern": {
     "criteria": {
       "has_item": "2025-06-19 08:13:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone": {
+    "criteria": {
+      "has_item": "2025-06-19 10:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-06-19 10:02:19 +0000"
     },
     "done": true
   },
@@ -8911,6 +8981,18 @@
     },
     "done": true
   },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-06-19 10:11:35 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/evil_eye": {
+    "criteria": {
+      "evil_eye": "2025-06-19 10:28:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-19 09:42:05 +0000"
@@ -8923,9 +9005,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_cobblestone_wall": {
+    "criteria": {
+      "has_block": "2025-06-19 10:14:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keycard_reader": {
+    "criteria": {
+      "has_stone": "2025-06-19 10:14:45 +0000"
+    },
+    "done": true
+  },
   "jcraft:recipes/misc/blood_bottle": {
     "criteria": {
       "has_glass": "2025-06-19 08:29:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2025-06-19 10:14:45 +0000"
     },
     "done": true
   },
@@ -8947,6 +9047,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-06-19 10:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-06-19 10:01:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-06-19 08:57:55 +0000"
@@ -8962,6 +9074,18 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2025-06-19 08:56:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2025-06-19 10:14:45 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/manual": {
+    "criteria": {
+      "has_book": "2025-06-19 10:21:37 +0000"
     },
     "done": true
   },
@@ -8989,9 +9113,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-06-19 10:01:38 +0000"
+    },
+    "done": true
+  },
   "endrem:main/black_eye": {
     "criteria": {
       "black_eye": "2025-06-19 09:15:29 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/guardian_eye": {
+    "criteria": {
+      "guardian_eye": "2025-06-19 10:05:32 +0000"
     },
     "done": true
   },
@@ -9004,6 +9140,12 @@
   "tconstruct:recipes/redstone/smeltery/seared/fuel_tank": {
     "criteria": {
       "has_item": "2025-06-19 08:13:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-19 10:02:19 +0000"
     },
     "done": true
   },
@@ -9031,9 +9173,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-06-19 10:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-06-19 10:01:38 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/tarantula_hawk": {
     "criteria": {
       "killed_by": "2025-06-19 09:29:04 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/stellar_iron_ingot_from_blasting": {
+    "criteria": {
+      "has_ore": "2025-06-19 10:12:54 +0000"
     },
     "done": true
   },
@@ -9043,9 +9203,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-06-19 10:02:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-19 09:42:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-19 10:01:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-06-19 10:14:45 +0000"
     },
     "done": true
   },
@@ -9055,9 +9233,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-06-19 10:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-19 09:59:07 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/faucet": {
     "criteria": {
       "has_item": "2025-06-19 08:13:42 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_meteorite_iron_ore": {
+    "criteria": {
+      "has_ore": "2025-06-19 10:12:54 +0000"
     },
     "done": true
   },
@@ -9121,6 +9317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-06-19 10:01:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-06-19 09:00:41 +0000"
@@ -9130,6 +9332,18 @@
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
     "criteria": {
       "has_the_recipe": "2025-06-19 08:13:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_lever": {
+    "criteria": {
+      "has_cobble": "2025-06-19 10:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-06-19 10:02:19 +0000"
     },
     "done": true
   },
