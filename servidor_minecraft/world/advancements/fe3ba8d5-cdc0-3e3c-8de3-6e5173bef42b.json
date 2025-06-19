@@ -102,6 +102,7 @@
       "minecraft:eroded_badlands": "2025-06-14 08:58:30 +0000",
       "minecraft:cherry_grove": "2025-06-14 06:24:06 +0000",
       "minecraft:bamboo_jungle": "2025-06-17 05:49:45 +0000",
+      "minecraft:wooded_badlands": "2025-06-19 09:26:54 +0000",
       "minecraft:badlands": "2025-06-14 08:50:49 +0000",
       "minecraft:savanna_plateau": "2025-06-19 08:57:50 +0000",
       "minecraft:beach": "2025-06-14 21:22:33 +0000",
@@ -1195,6 +1196,7 @@
       "minecraft:stray": "2025-06-14 06:31:33 +0000",
       "minecraft:silverfish": "2025-06-14 07:38:30 +0000",
       "minecraft:zombie": "2025-06-13 05:44:50 +0000",
+      "minecraft:drowned": "2025-06-19 09:30:29 +0000",
       "minecraft:zombie_villager": "2025-06-13 06:46:57 +0000"
     },
     "done": false
@@ -8799,6 +8801,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-19 09:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-19 09:30:28 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/smeltery/seared/lantern": {
     "criteria": {
       "has_item": "2025-06-19 08:13:42 +0000"
@@ -8829,6 +8843,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2025-06-19 09:26:30 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-06-19 08:57:55 +0000"
@@ -8841,9 +8861,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-06-19 09:27:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2025-06-19 08:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-06-19 09:30:28 +0000"
     },
     "done": true
   },
@@ -8871,9 +8903,27 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-06-19 09:27:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-06-19 09:29:04 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/seared_casting_tank": {
     "criteria": {
       "has_item": "2025-06-19 08:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-06-19 09:30:28 +0000"
     },
     "done": true
   },
