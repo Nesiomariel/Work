@@ -8716,6 +8716,12 @@
     },
     "done": true
   },
+  "jcraft:recipes/combat/anubis_sheathed": {
+    "criteria": {
+      "has_diamond": "2025-06-19 08:28:27 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_from_brick": {
     "criteria": {
       "has_item": "2025-06-19 08:13:42 +0000"
@@ -8770,9 +8776,21 @@
     },
     "done": true
   },
+  "jcraft:recipes/misc/blood_bottle": {
+    "criteria": {
+      "has_glass": "2025-06-19 08:29:42 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/smeltery/seared/ingot_gauge": {
     "criteria": {
       "has_item": "2025-06-19 08:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-06-19 08:33:07 +0000"
     },
     "done": true
   },
@@ -8845,6 +8863,12 @@
   "tconstruct:recipes/redstone/smeltery/seared/chute": {
     "criteria": {
       "has_item": "2025-06-19 08:13:42 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/building_blocks/hot_sand_block": {
+    "criteria": {
+      "has_sand": "2025-06-19 08:28:48 +0000"
     },
     "done": true
   },
