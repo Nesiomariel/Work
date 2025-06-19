@@ -1528,3 +1528,89 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [19Jun2025 08:46:03.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
 [19Jun2025 08:47:05.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
 [19Jun2025 08:48:47.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 08:48:56.153] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1436, y=-20, z=-720}
+[19Jun2025 08:49:03.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19Jun2025 08:49:42.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -3.8168428008034425,53.00655705936557,-12.059138427135395
+[19Jun2025 08:49:42.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! -2.8040435911880195,6.000000238418579,-8.09306558456342
+[19Jun2025 08:49:44.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -3.797699135170433,36.01695824212962,-11.998654900325278
+[19Jun2025 08:49:44.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2283ms or 45 ticks behind
+[19Jun2025 08:49:51.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -2.6382294510710835,11.0687072534271,-9.68987380393844
+[19Jun2025 08:49:52.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved too quickly! -5.039018320735977,27.757245021989952,-18.50765921964944
+[19Jun2025 08:50:20.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21450ms or 429 ticks behind
+[19Jun2025 08:50:23.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from TheForgottenNeo]
+[19Jun2025 08:50:34.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 08:50:36.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 08:50:44.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8508ms or 170 ticks behind
+[19Jun2025 08:50:51.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved too quickly! -8.877727873032654,5.763458275088169,-1.5769201668985033
+[19Jun2025 08:51:05.028] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5889ms or 117 ticks behind
+[19Jun2025 08:51:23.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3138ms or 62 ticks behind
+[19Jun2025 08:51:37.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1870, y=215, z=-706} BlockPos{x=-1867, y=217, z=-706}
+[19Jun2025 08:51:40.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1869, y=196, z=-707} BlockPos{x=-1870, y=196, z=-707}
+[19Jun2025 08:51:41.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[19Jun2025 08:51:42.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1874, y=191, z=-711} BlockPos{x=-1874, y=190, z=-711}
+[19Jun2025 08:51:42.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1875, y=190, z=-711} BlockPos{x=-1874, y=190, z=-711}
+[19Jun2025 08:51:42.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1875, y=191, z=-711} BlockPos{x=-1874, y=190, z=-711}
+[19Jun2025 08:51:42.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1875, y=192, z=-713} BlockPos{x=-1874, y=190, z=-711}
+[19Jun2025 08:51:42.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1875, y=192, z=-713} BlockPos{x=-1874, y=190, z=-711}
+[19Jun2025 08:51:43.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1880, y=191, z=-707} BlockPos{x=-1880, y=190, z=-707}
+[19Jun2025 08:51:51.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1889, y=207, z=-700} BlockPos{x=-1887, y=203, z=-700}
+[19Jun2025 08:51:51.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1889, y=207, z=-700} BlockPos{x=-1889, y=205, z=-700}
+[19Jun2025 08:51:53.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 08:51:53.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1899, y=201, z=-693} BlockPos{x=-1899, y=201, z=-694}
+[19Jun2025 08:51:54.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1903, y=200, z=-688} BlockPos{x=-1903, y=199, z=-690}
+[19Jun2025 08:51:54.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1903, y=199, z=-689} BlockPos{x=-1903, y=199, z=-690}
+[19Jun2025 08:51:54.939] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1904, y=200, z=-689} BlockPos{x=-1903, y=199, z=-690}
+[19Jun2025 08:51:54.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1904, y=201, z=-689} BlockPos{x=-1903, y=199, z=-690}
+[19Jun2025 08:51:55.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1905, y=202, z=-689} BlockPos{x=-1903, y=199, z=-690}
+[19Jun2025 08:51:55.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1908, y=200, z=-685} BlockPos{x=-1908, y=199, z=-685}
+[19Jun2025 08:51:56.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1908, y=200, z=-685} BlockPos{x=-1908, y=199, z=-685}
+[19Jun2025 08:51:56.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1908, y=201, z=-685} BlockPos{x=-1908, y=199, z=-685}
+[19Jun2025 08:51:58.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1918, y=201, z=-674} BlockPos{x=-1918, y=200, z=-674}
+[19Jun2025 08:51:58.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1918, y=201, z=-674} BlockPos{x=-1918, y=200, z=-674}
+[19Jun2025 08:52:01.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4926ms or 98 ticks behind
+[19Jun2025 08:52:06.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1947, y=217, z=-649} BlockPos{x=-1947, y=218, z=-649}
+[19Jun2025 08:52:07.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1949, y=220, z=-647} BlockPos{x=-1950, y=219, z=-647}
+[19Jun2025 08:52:21.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4558ms or 91 ticks behind
+[19Jun2025 08:52:41.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4924ms or 98 ticks behind
+[19Jun2025 08:52:53.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Set the weather to clear]
+[19Jun2025 08:52:59.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3469ms or 69 ticks behind
+[19Jun2025 08:53:19.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4604ms or 92 ticks behind
+[19Jun2025 08:53:20.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has made the advancement [Ant Farm]
+[19Jun2025 08:53:40.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6645ms or 132 ticks behind
+[19Jun2025 08:53:52.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Welcome To The Jungle]
+[19Jun2025 08:54:02.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6209ms or 124 ticks behind
+[19Jun2025 08:54:12.781] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2355, y=137, z=-944} BlockPos{x=-2355, y=136, z=-943}
+[19Jun2025 08:54:13.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2355, y=139, z=-956} BlockPos{x=-2355, y=138, z=-955}
+[19Jun2025 08:54:24.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7884ms or 157 ticks behind
+[19Jun2025 08:54:47.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7172ms or 143 ticks behind
+[19Jun2025 08:54:51.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2403, y=78, z=-990} BlockPos{x=-2404, y=79, z=-990}
+[19Jun2025 08:54:59.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[19Jun2025 08:55:10.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8416ms or 168 ticks behind
+[19Jun2025 08:55:29.184] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3745ms or 74 ticks behind
+[19Jun2025 08:55:46.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 08:55:51.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[19Jun2025 08:55:53.775] [Worker-Main-39/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Jun2025 08:55:54.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 08:56:08.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[19Jun2025 08:56:26.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3032ms or 60 ticks behind
+[19Jun2025 08:56:30.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3006, y=248, z=-1515} BlockPos{x=-3007, y=247, z=-1514}
+[19Jun2025 08:56:40.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3014, y=247, z=-1510} BlockPos{x=-3014, y=248, z=-1513}
+[19Jun2025 08:56:43.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3022, y=249, z=-1520} BlockPos{x=-3022, y=249, z=-1519}
+[19Jun2025 08:56:46.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3016, y=261, z=-1511} BlockPos{x=-3015, y=261, z=-1511}
+[19Jun2025 08:56:46.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3016, y=261, z=-1511} BlockPos{x=-3015, y=261, z=-1511}
+[19Jun2025 08:57:03.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Teleported TheForgottenNeo to ElSilverSito]
+[19Jun2025 08:57:10.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[19Jun2025 08:57:20.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheForgottenNeo: Removed every effect from TheForgottenNeo]
+[19Jun2025 08:57:27.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheForgottenNeo moved wrongly!
+[19Jun2025 08:57:46.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 08:57:55.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has reached the goal [Strong or Careful]
+[19Jun2025 08:57:55.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito was killed
+[19Jun2025 08:57:55.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Your First Grave]
+[19Jun2025 08:57:55.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo was killed
+[19Jun2025 08:57:56.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Killed 1415 entities]
+[19Jun2025 08:57:56.103] [Server thread/INFO] [tombstone/]: The player ElSilverSito has successfully been saved
+[19Jun2025 08:57:56.103] [Server thread/INFO] [tombstone/]: The player TheForgottenNeo has successfully been saved
+[19Jun2025 08:58:08.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElSilverSito: Teleported ElSilverSito to TheForgottenNeo]
+[19Jun2025 08:58:25.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [The Most Useful Key]
+[19Jun2025 08:58:28.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheForgottenNeo has reached the goal [A Fast Comeback]
+[19Jun2025 08:58:31.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has reached the goal [A Fast Comeback]
