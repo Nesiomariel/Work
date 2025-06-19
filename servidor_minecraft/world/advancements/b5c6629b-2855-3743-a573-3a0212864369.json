@@ -1971,7 +1971,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-06-13 06:43:59 +0000",
-      "opened_chest": "2025-06-13 06:43:54 +0000"
+      "opened_chest": "2025-06-13 06:43:54 +0000",
+      "opened_cart": "2025-06-19 09:45:33 +0000"
     },
     "done": false
   },
@@ -12776,7 +12777,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-06-19 09:35:47 +0000"
+      "requirement": "2025-06-19 09:50:51 +0000"
     },
     "done": false
   },
@@ -12801,6 +12802,12 @@
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-06-19 09:08:38 +0000"
+    },
+    "done": true
+  },
+  "jcraft:find_stone_mask": {
+    "criteria": {
+      "has_mask": "2025-06-19 09:43:08 +0000"
     },
     "done": true
   },
@@ -12843,6 +12850,12 @@
   "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-19 09:17:28 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-06-19 09:45:33 +0000"
     },
     "done": true
   },
@@ -13008,6 +13021,12 @@
     },
     "done": true
   },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-06-19 09:41:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-06-19 08:53:36 +0000"
@@ -13023,6 +13042,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-19 09:32:33 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/redstone/nova_catalyst": {
+    "criteria": {
+      "has_tnt": "2025-06-19 09:36:54 +0000"
     },
     "done": true
   },
