@@ -13723,3 +13723,56 @@ java.net.UnknownHostException: being-ob.gl.at.ply.gg:14782: invalid IPv6 address
 [19Jun2025 06:59:07.825] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElSilverSito
 [19Jun2025 06:59:08.889] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750316348868
 [19Jun2025 06:59:17.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[19Jun2025 06:59:19.799] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b
+[19Jun2025 06:59:19.799] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of ElSilverSito to connected: {disabled=false, disconnected=false, uuid=fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b, name=ElSilverSito, group=null}
+[19Jun2025 06:59:19.799] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElSilverSito (fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b) successfully connected to voice chat
+[19Jun2025 06:59:19.979] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of ElSilverSito: {disabled=true, disconnected=false, uuid=fe3ba8d5-cdc0-3e3c-8de3-6e5173bef42b, name=ElSilverSito, group=null}
+[19Jun2025 06:59:28.296] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager b7520d49: RandomSpreadSearchWorker starting with 10000 max radius, 100000 max samples
+[19Jun2025 06:59:28.862] [Server thread/INFO] [explorerscompass/]: SearchWorkerManager b7520d49: RandomSpreadSearchWorker succeeded with 1826 radius, 59 samples
+[19Jun2025 07:00:23.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=676, y=64, z=-73} BlockPos{x=676, y=63, z=-73}
+[19Jun2025 07:00:23.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=676, y=64, z=-73} BlockPos{x=675, y=63, z=-72}
+[19Jun2025 07:00:23.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=676, y=63, z=-73} BlockPos{x=675, y=63, z=-72}
+[19Jun2025 07:00:23.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=676, y=63, z=-73} BlockPos{x=675, y=63, z=-72}
+[19Jun2025 07:00:23.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=676, y=63, z=-73} BlockPos{x=675, y=63, z=-72}
+[19Jun2025 07:00:23.293] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=676, y=63, z=-73} BlockPos{x=675, y=63, z=-72}
+[19Jun2025 07:00:45.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=669, y=61, z=-171} BlockPos{x=668, y=61, z=-171}
+[19Jun2025 07:01:03.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito moved wrongly!
+[19Jun2025 07:01:03.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=666, y=59, z=-214} BlockPos{x=666, y=58, z=-215}
+[19Jun2025 07:01:36.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 07:01:36.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 07:01:44.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=653, y=57, z=-284} BlockPos{x=654, y=55, z=-281}
+[19Jun2025 07:02:02.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=653, y=54, z=-391} BlockPos{x=653, y=53, z=-391}
+[19Jun2025 07:03:11.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2424ms or 48 ticks behind
+[19Jun2025 07:03:43.250] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/15192, l='ServerLevel[world]', x=362.59, y=52.54, z=-1510.77] died: Piglin Civilian was slain by ElSilverSito
+[19Jun2025 07:03:43.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [A Terrible Fortress]
+[19Jun2025 07:03:46.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has reached the goal [Piglin Pillage]
+[19Jun2025 07:03:57.501] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/15232, l='ServerLevel[world]', x=373.21, y=53.06, z=-1484.93] died: Village Guard was slain by ElSilverSito
+[19Jun2025 07:03:58.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Brewer'/15233, l='ServerLevel[world]', x=374.79, y=52.00, z=-1485.38] died: Village Brewer was slain by ElSilverSito
+[19Jun2025 07:04:09.941] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -107], pos: MutableBlockPos{x=240, y=156, z=-1698}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jun2025 07:04:09.942] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -107], pos: MutableBlockPos{x=240, y=157, z=-1698}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jun2025 07:04:09.942] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -107], pos: MutableBlockPos{x=240, y=158, z=-1698}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jun2025 07:04:09.942] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -107], pos: MutableBlockPos{x=240, y=159, z=-1698}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jun2025 07:04:09.943] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -107], pos: MutableBlockPos{x=240, y=156, z=-1697}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jun2025 07:04:09.943] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -107], pos: MutableBlockPos{x=240, y=157, z=-1697}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jun2025 07:04:09.943] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -107], pos: MutableBlockPos{x=240, y=158, z=-1697}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jun2025 07:04:09.943] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -107], pos: MutableBlockPos{x=240, y=159, z=-1697}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jun2025 07:04:09.944] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -107], pos: MutableBlockPos{x=240, y=160, z=-1697}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jun2025 07:04:09.945] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -106], pos: MutableBlockPos{x=240, y=157, z=-1696}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jun2025 07:04:09.945] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -106], pos: MutableBlockPos{x=240, y=158, z=-1696}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jun2025 07:04:09.945] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -106], pos: MutableBlockPos{x=240, y=159, z=-1696}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jun2025 07:04:09.946] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -106], pos: MutableBlockPos{x=240, y=160, z=-1696}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jun2025 07:04:09.947] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -106], pos: MutableBlockPos{x=240, y=157, z=-1695}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jun2025 07:04:09.947] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -106], pos: MutableBlockPos{x=240, y=158, z=-1695}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jun2025 07:04:09.947] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [15, -106], pos: MutableBlockPos{x=240, y=159, z=-1695}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[19Jun2025 07:04:11.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito has made the advancement [Hellish Paradise]
+[19Jun2025 07:06:07.102] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[19Jun2025 07:06:11.198] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[19Jun2025 07:06:39.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jun2025 07:06:39.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jun2025 07:06:58.646] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[19Jun2025 07:07:20.503] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[19Jun2025 07:08:01.204] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1750316881138
+[19Jun2025 07:08:17.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElSilverSito lost connection: Disconnected
+[19Jun2025 07:08:17.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElSilverSito left the game
+[19Jun2025 07:08:17.184] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of ElSilverSito
+[19Jun2025 07:08:17.184] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElSilverSito
