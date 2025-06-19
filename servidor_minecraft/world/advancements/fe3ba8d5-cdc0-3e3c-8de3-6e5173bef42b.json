@@ -8901,6 +8901,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-06-19 09:18:08 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/smeltery/seared/basin": {
     "criteria": {
       "has_item": "2025-06-19 08:13:42 +0000"

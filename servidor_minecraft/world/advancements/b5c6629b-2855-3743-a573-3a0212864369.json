@@ -12776,7 +12776,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-06-19 09:17:38 +0000"
+      "requirement": "2025-06-19 09:24:58 +0000"
     },
     "done": false
   },
@@ -12981,6 +12981,12 @@
   "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-06-19 09:17:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-06-19 09:18:05 +0000"
     },
     "done": true
   },
