@@ -8818,6 +8818,12 @@
     },
     "done": true
   },
+  "jcraft:recipes/combat/boxing_gloves": {
+    "criteria": {
+      "has_leather": "2025-06-19 08:39:27 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/smeltery/seared/basin": {
     "criteria": {
       "has_item": "2025-06-19 08:13:42 +0000"
